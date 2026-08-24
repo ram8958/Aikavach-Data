@@ -1,0 +1,78 @@
+{
+  "courses": {
+    "slug": "spark",
+    "image": "/spark.png",
+    "category": "Big Data & Data Engineering",
+    "duration": "100+ Hours",
+    "enrolled": "500+ Students",
+    "title": "Apache Spark Training",
+    "description": "Master Apache Spark from fundamentals to advanced distributed data processing with Spark SQL, PySpark, DataFrames, RDDs and real-world data engineering projects.",
+    "price": {
+      "title": "COURSE PRICE",
+      "original": "₹25,000",
+      "amount": "₹15,000",
+      "discount": "40% OFF",
+      "note": "Complete Apache Spark training with practical data engineering projects."
+    },
+    "button": {
+      "title": "Contact with us",
+      "href": "/contact"
+    },
+    "includes": [
+      {
+        "id": 1,
+        "text": "Apache Spark Fundamentals"
+      },
+      {
+        "id": 2,
+        "text": "RDDs, DataFrames & Datasets"
+      },
+      {
+        "id": 3,
+        "text": "Spark SQL"
+      },
+      {
+        "id": 4,
+        "text": "PySpark"
+      },
+      {
+        "id": 5,
+        "text": "Spark Performance Optimization"
+      },
+      {
+        "id": 6,
+        "text": "Real-World Data Engineering Projects"
+      }
+    ],
+    "socials": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "href": "https://www.facebook.com/"
+      },
+      {
+        "id": 2,
+        "icon": "linkedin",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "id": 3,
+        "icon": "whatsapp",
+        "href": "https://wa.me/919999999999"
+      },
+      {
+        "id": 4,
+        "icon": "x",
+        "href": "https://x.com/"
+      }
+    ],
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/919999999999"
+      },
+      "message": {
+        "href": "tel:+919999999999"
+      }
+    }
+  }
+}
