@@ -1,0 +1,285 @@
+{
+  "title": "Spring Boot Developer Roadmap",
+  "groups": [
+    {
+      "title": "Java Fundamentals",
+      "items": [
+        {
+          "name": "Java Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "OOP Concepts",
+          "status": "recommended"
+        },
+        {
+          "name": "Collections Framework",
+          "status": "recommended"
+        },
+        {
+          "name": "Exception Handling",
+          "status": "recommended"
+        },
+        {
+          "name": "Java Streams",
+          "status": "recommended"
+        },
+        {
+          "name": "Generics",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "Spring Framework",
+      "items": [
+        {
+          "name": "Spring Core",
+          "status": "recommended"
+        },
+        {
+          "name": "Dependency Injection",
+          "status": "recommended"
+        },
+        {
+          "name": "Inversion of Control",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Beans",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Configuration",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Profiles",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "Spring Boot Basics",
+      "items": [
+        {
+          "name": "Spring Boot Introduction",
+          "status": "recommended"
+        },
+        {
+          "name": "Project Structure",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Initializr",
+          "status": "recommended"
+        },
+        {
+          "name": "application.properties",
+          "status": "recommended"
+        },
+        {
+          "name": "application.yml",
+          "status": "alternative"
+        },
+        {
+          "name": "Configuration Management",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "REST API Development",
+      "items": [
+        {
+          "name": "REST Architecture",
+          "status": "recommended"
+        },
+        {
+          "name": "Controllers",
+          "status": "recommended"
+        },
+        {
+          "name": "Request Mapping",
+          "status": "recommended"
+        },
+        {
+          "name": "GET POST PUT DELETE",
+          "status": "recommended"
+        },
+        {
+          "name": "Path Variables",
+          "status": "recommended"
+        },
+        {
+          "name": "Request Parameters",
+          "status": "recommended"
+        },
+        {
+          "name": "Request Body",
+          "status": "recommended"
+        },
+        {
+          "name": "ResponseEntity",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Database & JPA",
+      "items": [
+        {
+          "name": "SQL Fundamentals",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Data JPA",
+          "status": "recommended"
+        },
+        {
+          "name": "Hibernate",
+          "status": "recommended"
+        },
+        {
+          "name": "Entities",
+          "status": "recommended"
+        },
+        {
+          "name": "Repositories",
+          "status": "recommended"
+        },
+        {
+          "name": "Relationships",
+          "status": "recommended"
+        },
+        {
+          "name": "JPQL",
+          "status": "alternative"
+        },
+        {
+          "name": "MySQL / PostgreSQL",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Validation & Exception Handling",
+      "items": [
+        {
+          "name": "Bean Validation",
+          "status": "recommended"
+        },
+        {
+          "name": "Validation Annotations",
+          "status": "recommended"
+        },
+        {
+          "name": "Global Exception Handling",
+          "status": "recommended"
+        },
+        {
+          "name": "Custom Exceptions",
+          "status": "recommended"
+        },
+        {
+          "name": "Error Response Design",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Spring Security",
+      "items": [
+        {
+          "name": "Spring Security Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Authentication",
+          "status": "recommended"
+        },
+        {
+          "name": "Authorization",
+          "status": "recommended"
+        },
+        {
+          "name": "Password Encoding",
+          "status": "recommended"
+        },
+        {
+          "name": "Role Based Access",
+          "status": "recommended"
+        },
+        {
+          "name": "JWT Authentication",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Microservices",
+      "items": [
+        {
+          "name": "Microservices Architecture",
+          "status": "recommended"
+        },
+        {
+          "name": "Service Discovery",
+          "status": "recommended"
+        },
+        {
+          "name": "API Gateway",
+          "status": "recommended"
+        },
+        {
+          "name": "OpenFeign",
+          "status": "recommended"
+        },
+        {
+          "name": "Configuration Server",
+          "status": "alternative"
+        },
+        {
+          "name": "Resilience Patterns",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "Testing & Deployment",
+      "items": [
+        {
+          "name": "JUnit",
+          "status": "recommended"
+        },
+        {
+          "name": "Mockito",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Boot Testing",
+          "status": "recommended"
+        },
+        {
+          "name": "Docker",
+          "status": "recommended"
+        },
+        {
+          "name": "CI/CD",
+          "status": "alternative"
+        },
+        {
+          "name": "Cloud Deployment",
+          "status": "optional"
+        }
+      ]
+    }
+  ],
+  "relatedRoadmaps": [
+    "Java Developer",
+    "Backend Developer",
+    "Microservices Developer",
+    "DevOps",
+    "Cloud Engineer"
+  ]
+}
