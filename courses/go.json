@@ -1,0 +1,94 @@
+{
+  "courses": {
+    "slug": "go",
+    "image": "/go.png",
+    "category": "Programming",
+    "duration": "100+ Hours",
+    "enrolled": "300+ Students",
+    "title": "Go Programming Course",
+    "description": "Learn Go programming from fundamentals to advanced concepts with practical coding, concurrency, REST APIs, backend development and real-world projects.",
+    "price": {
+      "title": "COURSE PRICE",
+      "original": "₹20,000",
+      "amount": "₹12,000",
+      "discount": "40% OFF",
+      "note": "Lifetime access to course learning resources."
+    },
+    "button": {
+      "title": "Contact with us",
+      "href": "/contact"
+    },
+    "includes": [
+      {
+        "id": 1,
+        "text": "Go Programming Fundamentals"
+      },
+      {
+        "id": 2,
+        "text": "Variables, Data Types and Operators"
+      },
+      {
+        "id": 3,
+        "text": "Functions and Packages"
+      },
+      {
+        "id": 4,
+        "text": "Arrays, Slices and Maps"
+      },
+      {
+        "id": 5,
+        "text": "Structs and Interfaces"
+      },
+      {
+        "id": 6,
+        "text": "Pointers and Memory Management"
+      },
+      {
+        "id": 7,
+        "text": "Goroutines and Concurrency"
+      },
+      {
+        "id": 8,
+        "text": "Channels and Synchronization"
+      },
+      {
+        "id": 9,
+        "text": "REST API and Backend Development"
+      },
+      {
+        "id": 10,
+        "text": "Practical Go Projects"
+      }
+    ],
+    "socials": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "href": "https://www.facebook.com/"
+      },
+      {
+        "id": 2,
+        "icon": "linkedin",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "id": 3,
+        "icon": "whatsapp",
+        "href": "https://wa.me/919876543210"
+      },
+      {
+        "id": 4,
+        "icon": "x",
+        "href": "https://x.com/"
+      }
+    ],
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/919876543210"
+      },
+      "message": {
+        "href": "tel:+919876543210"
+      }
+    }
+  }
+}
