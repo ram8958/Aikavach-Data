@@ -1,0 +1,91 @@
+{
+  "courses": {
+    "slug": "python",
+    "image": "/python.png",
+    "category": "Programming",
+    "duration": "80+ Hours",
+    "enrolled": "500+ Students",
+    "title": "Python Programming Training",
+    "description": "Learn Python programming from fundamentals to advanced concepts with practical projects and real-world applications.",
+
+    "price": {
+      "title": "COURSE PRICE",
+      "original": "₹15,000",
+      "amount": "₹9,999",
+      "discount": "33% OFF",
+      "note": "Complete Python programming training with practical learning."
+    },
+
+    "button": {
+      "title": "Contact with us",
+      "href": "/contact"
+    },
+
+    "includes": [
+      {
+        "id": 1,
+        "text": "Python Fundamentals"
+      },
+      {
+        "id": 2,
+        "text": "Object-Oriented Programming"
+      },
+      {
+        "id": 3,
+        "text": "Functions and Modules"
+      },
+      {
+        "id": 4,
+        "text": "Exception Handling"
+      },
+      {
+        "id": 5,
+        "text": "File Handling"
+      },
+      {
+        "id": 6,
+        "text": "Python Libraries"
+      },
+      {
+        "id": 7,
+        "text": "Database Connectivity"
+      },
+      {
+        "id": 8,
+        "text": "Real-World Python Projects"
+      }
+    ],
+
+    "socials": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "icon": "whatsapp",
+        "href": "https://wa.me/919876543210"
+      },
+      {
+        "id": 4,
+        "icon": "x",
+        "href": "#"
+      }
+    ],
+
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/919876543210"
+      },
+      "message": {
+        "href": "tel:+919876543210"
+      }
+    }
+  }
+}
