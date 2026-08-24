@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "PROGRAMMING COURSES",
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python",
+      "subtitle": "Python Programming",
+      "description": "Learn Python programming from fundamentals to advanced concepts with practical examples and projects.",
+      "icon": "Py",
+      "iconBg": "from-blue-500 to-cyan-500",
+      "slug": "python",
+      "badge": {
+        "text": "POPULAR",
+        "color": "bg-blue-500/20 text-blue-300 border border-blue-400/30"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Java",
+      "subtitle": "Java Programming",
+      "description": "Master Java programming, object-oriented programming, collections, exception handling and application development.",
+      "icon": "Java",
+      "iconBg": "from-orange-500 to-red-500",
+      "slug": "java"
+    },
+    {
+      "id": 3,
+      "title": "Go",
+      "subtitle": "Go Programming",
+      "description": "Learn Go programming, concurrency, APIs, backend development and modern application development.",
+      "icon": "Go",
+      "iconBg": "from-cyan-500 to-blue-500",
+      "slug": "go"
+    },
+    {
+      "id": 4,
+      "title": "Spring Boot",
+      "subtitle": "Spring Boot Development",
+      "description": "Build production-ready Java backend applications using Spring Boot, REST APIs, databases and microservices.",
+      "icon": "SB",
+      "iconBg": "from-green-500 to-emerald-600",
+      "slug": "springboot"
+    },
+    {
+      "id": 5,
+      "title": "Apache Spark",
+      "subtitle": "Big Data Processing",
+      "description": "Learn Apache Spark, distributed data processing, Spark SQL, PySpark and large-scale data engineering.",
+      "icon": "SP",
+      "iconBg": "from-red-500 to-orange-500",
+      "slug": "spark"
+    }
+  ]
+}
