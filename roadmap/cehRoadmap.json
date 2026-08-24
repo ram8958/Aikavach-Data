@@ -1,0 +1,266 @@
+{
+    "title": "Ethical Hacking / CEH v13 Roadmap",
+    "groups": [
+      {
+        "title": "FOUNDATIONS",
+        "items": [
+          {
+            "name": "Computer Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Networking Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Linux Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Windows Fundamentals",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "NETWORKING",
+        "items": [
+          {
+            "name": "TCP/IP",
+            "status": "recommended"
+          },
+          {
+            "name": "OSI Model",
+            "status": "recommended"
+          },
+          {
+            "name": "Ports & Protocols",
+            "status": "recommended"
+          },
+          {
+            "name": "DNS",
+            "status": "recommended"
+          },
+          {
+            "name": "DHCP",
+            "status": "recommended"
+          },
+          {
+            "name": "Routing & Switching",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "LINUX & WINDOWS",
+        "items": [
+          {
+            "name": "Linux Commands",
+            "status": "recommended"
+          },
+          {
+            "name": "Linux Administration",
+            "status": "recommended"
+          },
+          {
+            "name": "Windows Administration",
+            "status": "recommended"
+          },
+          {
+            "name": "Active Directory Basics",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "SECURITY FUNDAMENTALS",
+        "items": [
+          {
+            "name": "CIA Triad",
+            "status": "recommended"
+          },
+          {
+            "name": "Authentication & Authorization",
+            "status": "recommended"
+          },
+          {
+            "name": "Cryptography Basics",
+            "status": "recommended"
+          },
+          {
+            "name": "Security Threats",
+            "status": "recommended"
+          },
+          {
+            "name": "Vulnerabilities",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "ETHICAL HACKING",
+        "items": [
+          {
+            "name": "Information Gathering",
+            "status": "recommended"
+          },
+          {
+            "name": "Footprinting",
+            "status": "recommended"
+          },
+          {
+            "name": "Scanning",
+            "status": "recommended"
+          },
+          {
+            "name": "Enumeration",
+            "status": "recommended"
+          },
+          {
+            "name": "Vulnerability Analysis",
+            "status": "recommended"
+          },
+          {
+            "name": "System Hacking",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "WEB APPLICATION SECURITY",
+        "items": [
+          {
+            "name": "HTTP & HTTPS",
+            "status": "recommended"
+          },
+          {
+            "name": "Web Application Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "OWASP Top 10",
+            "status": "recommended"
+          },
+          {
+            "name": "Web Vulnerability Assessment",
+            "status": "recommended"
+          },
+          {
+            "name": "Web Application Pentesting",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "NETWORK SECURITY",
+        "items": [
+          {
+            "name": "Network Attacks",
+            "status": "recommended"
+          },
+          {
+            "name": "Sniffing",
+            "status": "recommended"
+          },
+          {
+            "name": "Session Attacks",
+            "status": "recommended"
+          },
+          {
+            "name": "Firewall & IDS/IPS",
+            "status": "recommended"
+          },
+          {
+            "name": "Wireless Security",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "PENETRATION TESTING",
+        "items": [
+          {
+            "name": "Reconnaissance",
+            "status": "recommended"
+          },
+          {
+            "name": "Scanning & Enumeration",
+            "status": "recommended"
+          },
+          {
+            "name": "Exploitation",
+            "status": "recommended"
+          },
+          {
+            "name": "Privilege Escalation",
+            "status": "recommended"
+          },
+          {
+            "name": "Post Exploitation",
+            "status": "recommended"
+          },
+          {
+            "name": "Reporting",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "PRACTICAL LABS",
+        "items": [
+          {
+            "name": "Kali Linux Lab",
+            "status": "recommended"
+          },
+          {
+            "name": "Vulnerable Machines",
+            "status": "recommended"
+          },
+          {
+            "name": "CTF Challenges",
+            "status": "recommended"
+          },
+          {
+            "name": "Web Pentesting Labs",
+            "status": "recommended"
+          },
+          {
+            "name": "Network Pentesting Labs",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "CEH CERTIFICATION",
+        "items": [
+          {
+            "name": "CEH v13 Syllabus",
+            "status": "recommended"
+          },
+          {
+            "name": "Exam Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Practice Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "Mock Tests",
+            "status": "recommended"
+          },
+          {
+            "name": "Certification Preparation",
+            "status": "recommended"
+          }
+        ]
+      }
+    ],
+    "relatedRoadmaps": [
+      "AI-300 Roadmap",
+      "Security DevOps Roadmap",
+      "Cyber Security Roadmap",
+      "Penetration Testing Roadmap",
+      "Cloud Security Roadmap"
+    ]
+  }

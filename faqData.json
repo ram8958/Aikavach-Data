@@ -1,0 +1,106 @@
+{
+  "heading": "Prompt Engineering FAQ",
+
+  "items": [
+    {
+      "id": 1,
+      "question": "1. Introduction to Prompt Engineering",
+      "answer": "Learn what Prompt Engineering is, why it is important, how Large Language Models (LLMs) work with prompts, and where Prompt Engineering is used in real-world AI applications."
+    },
+    {
+      "id": 2,
+      "question": "2. Fundamentals of Artificial Intelligence",
+      "answer": "Understand the basics of Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, and how modern AI systems process information."
+    },
+    {
+      "id": 3,
+      "question": "3. Understanding Large Language Models (LLMs)",
+      "answer": "Explore GPT, Claude, Gemini, Llama, Mistral, and other LLMs, including how they generate responses and their strengths and limitations."
+    },
+    {
+      "id": 4,
+      "question": "4. How AI Interprets Prompts",
+      "answer": "Learn how AI understands instructions, context, system prompts, user prompts, tokens, and response generation mechanisms."
+    },
+    {
+      "id": 5,
+      "question": "5. Types of Prompts",
+      "answer": "Study Zero-shot, One-shot, Few-shot, Chain-of-Thought, Role-based, Instruction-based, and Contextual prompting techniques."
+    },
+    {
+      "id": 6,
+      "question": "6. Prompt Structure & Anatomy",
+      "answer": "Understand the essential components of an effective prompt including instructions, context, constraints, examples, and expected output."
+    },
+    {
+      "id": 7,
+      "question": "7. Writing Clear & Effective Prompts",
+      "answer": "Master best practices for creating prompts that generate accurate, consistent, and high-quality AI responses."
+    },
+    {
+      "id": 8,
+      "question": "8. Prompt Optimization Techniques",
+      "answer": "Learn how to refine prompts through iteration, prompt chaining, temperature control, output formatting, and performance improvements."
+    },
+    {
+      "id": 9,
+      "question": "9. Context Management in Prompts",
+      "answer": "Understand how to maintain conversation context, memory, token limits, and long-form interactions with AI models."
+    },
+    {
+      "id": 10,
+      "question": "10. Prompt Engineering with ChatGPT",
+      "answer": "Use ChatGPT effectively for automation, research, writing, coding, learning, productivity, and business workflows."
+    },
+    {
+      "id": 11,
+      "question": "11. Prompting for Content Creation",
+      "answer": "Generate blogs, marketing copy, social media posts, emails, product descriptions, scripts, and creative writing using advanced prompts."
+    },
+    {
+      "id": 12,
+      "question": "12. Prompt Engineering for Coding",
+      "answer": "Create efficient prompts for code generation, debugging, testing, documentation, refactoring, and software development."
+    },
+    {
+      "id": 13,
+      "question": "13. Prompt Engineering for Data & Analysis",
+      "answer": "Leverage AI for data analysis, report generation, spreadsheet automation, visualization, and business intelligence tasks."
+    },
+    {
+      "id": 14,
+      "question": "14. Advanced Prompt Techniques",
+      "answer": "Explore advanced methods including Tree-of-Thought, Self-Consistency, Multi-Step Prompting, ReAct prompting, and AI workflows."
+    },
+    {
+      "id": 15,
+      "question": "15. Prompt Debugging & Error Handling",
+      "answer": "Identify weak prompts, reduce hallucinations, improve reliability, troubleshoot incorrect outputs, and optimize prompt quality."
+    },
+    {
+      "id": 16,
+      "question": "16. Ethics, Bias & Safe Prompting",
+      "answer": "Understand responsible AI usage, prompt safety, bias reduction, privacy, security, and ethical AI practices."
+    },
+    {
+      "id": 17,
+      "question": "17. Prompt Engineering Tools & Platforms",
+      "answer": "Explore popular AI platforms including ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, Cursor AI, and API-based workflows."
+    },
+    {
+      "id": 18,
+      "question": "18. Prompt Templates & Reusability",
+      "answer": "Build reusable prompt libraries, standardized templates, prompt variables, and workflow automation for faster productivity."
+    },
+    {
+      "id": 19,
+      "question": "19. Real-World Use Cases & Case Studies",
+      "answer": "Analyze practical Prompt Engineering applications across cybersecurity, software development, education, healthcare, finance, and business."
+    },
+    {
+      "id": 20,
+      "question": "20. Capstone Project & Career Guidance",
+      "answer": "Complete a real-world Prompt Engineering project, build a professional portfolio, prepare for interviews, and explore career opportunities in AI."
+    }
+  ]
+}

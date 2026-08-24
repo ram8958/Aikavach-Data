@@ -1,0 +1,105 @@
+{
+    "courses": {
+      "slug": "data-engineer",
+      "image": "/dataeng.png",
+      "category": "Data Engineering",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+  
+      "title": "Data Engineer Training & Certification | Data Engineering Course",
+  
+      "description": "Our approach centers on hands-on training, real-world data engineering projects, industry-focused skills, and building the expertise required to become a job-ready Data Engineer.",
+  
+      "price": {
+        "title": "Course Price",
+        "amount": "₹12,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+  
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+  
+      "guide": {
+        "badge": "Course Guide",
+        "title": "Learn About Data Engineering Course Guidelines",
+        "description": "Understand the Data Engineer learning roadmap, course structure, technologies, projects, career path and preparation guide.",
+        "button": {
+          "title": "View Guidelines",
+          "href": "/data-engineering-course-guidelines"
+        }
+      },
+  
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "Hands-on Data Engineering Practice"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "SQL & Database Labs"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "Python for Data Engineering"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "ETL & Data Pipeline Projects"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "Apache Spark & Big Data Labs"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Real-World Data Engineering Projects"
+        }
+      ],
+  
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+  
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    }
+  }

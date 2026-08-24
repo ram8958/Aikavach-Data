@@ -1,0 +1,616 @@
+{
+    "slug": "big-data-engineer",
+    "title": "Big Data Engineer Roadmap",
+  
+    "groups": [
+      {
+        "title": "BIG DATA FUNDAMENTALS",
+        "items": [
+          {
+            "name": "What is Big Data?",
+            "status": "recommended"
+          },
+          {
+            "name": "Big Data Characteristics",
+            "status": "recommended"
+          },
+          {
+            "name": "Big Data Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Batch vs Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Distributed Computing",
+            "status": "recommended"
+          },
+          {
+            "name": "Scalable Data Systems",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "LINUX & PROGRAMMING",
+        "items": [
+          {
+            "name": "Linux Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Linux Commands",
+            "status": "recommended"
+          },
+          {
+            "name": "Shell Scripting",
+            "status": "alternative"
+          },
+          {
+            "name": "Python Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Data Structures",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Automation",
+            "status": "recommended"
+          },
+          {
+            "name": "Java / Scala Basics",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "SQL & DATABASES",
+        "items": [
+          {
+            "name": "SQL Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Joins",
+            "status": "recommended"
+          },
+          {
+            "name": "Subqueries & CTEs",
+            "status": "recommended"
+          },
+          {
+            "name": "Window Functions",
+            "status": "recommended"
+          },
+          {
+            "name": "Query Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "PostgreSQL",
+            "status": "recommended"
+          },
+          {
+            "name": "MySQL",
+            "status": "alternative"
+          },
+          {
+            "name": "NoSQL Databases",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "HADOOP ECOSYSTEM",
+        "items": [
+          {
+            "name": "Hadoop Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Hadoop Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "HDFS",
+            "status": "recommended"
+          },
+          {
+            "name": "NameNode",
+            "status": "recommended"
+          },
+          {
+            "name": "DataNode",
+            "status": "recommended"
+          },
+          {
+            "name": "YARN",
+            "status": "recommended"
+          },
+          {
+            "name": "ResourceManager",
+            "status": "recommended"
+          },
+          {
+            "name": "NodeManager",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "HIVE & DATA WAREHOUSING",
+        "items": [
+          {
+            "name": "Apache Hive",
+            "status": "recommended"
+          },
+          {
+            "name": "Hive Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "HiveQL",
+            "status": "recommended"
+          },
+          {
+            "name": "Hive Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Partitions",
+            "status": "recommended"
+          },
+          {
+            "name": "Bucketing",
+            "status": "alternative"
+          },
+          {
+            "name": "External Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Warehouse Concepts",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "APACHE SPARK",
+        "items": [
+          {
+            "name": "Apache Spark Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Cluster",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Driver",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Executors",
+            "status": "recommended"
+          },
+          {
+            "name": "RDDs",
+            "status": "alternative"
+          },
+          {
+            "name": "DataFrames",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark SQL",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "PYSPARK",
+        "items": [
+          {
+            "name": "PySpark Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "PySpark DataFrames",
+            "status": "recommended"
+          },
+          {
+            "name": "Transformations",
+            "status": "recommended"
+          },
+          {
+            "name": "Actions",
+            "status": "recommended"
+          },
+          {
+            "name": "Joins in PySpark",
+            "status": "recommended"
+          },
+          {
+            "name": "Aggregations",
+            "status": "recommended"
+          },
+          {
+            "name": "Window Functions",
+            "status": "recommended"
+          },
+          {
+            "name": "PySpark Optimization",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "SPARK PERFORMANCE",
+        "items": [
+          {
+            "name": "Partitioning",
+            "status": "recommended"
+          },
+          {
+            "name": "Repartitioning",
+            "status": "recommended"
+          },
+          {
+            "name": "Caching",
+            "status": "recommended"
+          },
+          {
+            "name": "Broadcast Joins",
+            "status": "recommended"
+          },
+          {
+            "name": "Shuffle Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Skew",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Job Optimization",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "ETL & DATA PIPELINES",
+        "items": [
+          {
+            "name": "ETL Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "ELT Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Ingestion",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Transformation",
+            "status": "recommended"
+          },
+          {
+            "name": "Batch Pipelines",
+            "status": "recommended"
+          },
+          {
+            "name": "Incremental Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Validation",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "APACHE KAFKA",
+        "items": [
+          {
+            "name": "Kafka Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Topics",
+            "status": "recommended"
+          },
+          {
+            "name": "Partitions",
+            "status": "recommended"
+          },
+          {
+            "name": "Producers",
+            "status": "recommended"
+          },
+          {
+            "name": "Consumers",
+            "status": "recommended"
+          },
+          {
+            "name": "Consumer Groups",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Monitoring",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "STREAMING DATA ENGINEERING",
+        "items": [
+          {
+            "name": "Real-Time Data Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Stream Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Event-Driven Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Structured Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Real-Time ETL",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "DATA LAKE & LAKEHOUSE",
+        "items": [
+          {
+            "name": "Data Lake Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Lakehouse Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Delta Lake",
+            "status": "recommended"
+          },
+          {
+            "name": "ACID Transactions",
+            "status": "recommended"
+          },
+          {
+            "name": "Schema Evolution",
+            "status": "recommended"
+          },
+          {
+            "name": "Medallion Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Bronze / Silver / Gold",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "CLOUD BIG DATA",
+        "items": [
+          {
+            "name": "Cloud Big Data Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "AWS Data Services",
+            "status": "alternative"
+          },
+          {
+            "name": "Azure Data Services",
+            "status": "alternative"
+          },
+          {
+            "name": "Google Cloud Data Services",
+            "status": "alternative"
+          },
+          {
+            "name": "Cloud Data Lakes",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Data Warehouses",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Spark Platforms",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "DATA GOVERNANCE & SECURITY",
+        "items": [
+          {
+            "name": "Data Governance",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Security",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Access Control",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Privacy",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lineage",
+            "status": "alternative"
+          },
+          {
+            "name": "Metadata Management",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "BIG DATA DEVOPS",
+        "items": [
+          {
+            "name": "Git & GitHub",
+            "status": "recommended"
+          },
+          {
+            "name": "Docker",
+            "status": "recommended"
+          },
+          {
+            "name": "CI/CD",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Testing",
+            "status": "recommended"
+          },
+          {
+            "name": "Logging",
+            "status": "recommended"
+          },
+          {
+            "name": "Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "REAL-WORLD BIG DATA PROJECTS",
+        "items": [
+          {
+            "name": "Large-Scale ETL Pipeline",
+            "status": "recommended"
+          },
+          {
+            "name": "Hadoop Data Processing Project",
+            "status": "recommended"
+          },
+          {
+            "name": "PySpark ETL Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Streaming Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Real-Time Data Pipeline",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lakehouse Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Big Data Project",
+            "status": "recommended"
+          },
+          {
+            "name": "End-to-End Big Data Capstone",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "JOB READY BIG DATA ENGINEER",
+        "items": [
+          {
+            "name": "Big Data Engineer Resume",
+            "status": "recommended"
+          },
+          {
+            "name": "GitHub Portfolio",
+            "status": "recommended"
+          },
+          {
+            "name": "SQL Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark Interview Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Interview Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "Big Data System Design",
+            "status": "alternative"
+          },
+          {
+            "name": "Project Discussion",
+            "status": "recommended"
+          },
+          {
+            "name": "Mock Interviews",
+            "status": "recommended"
+          }
+        ]
+      }
+    ],
+  
+    "relatedRoadmaps": [
+      "Data Engineer",
+      "Data Engineer with Azure",
+      "Data Scientist",
+      "Cloud Engineer",
+      "DevOps Engineer"
+    ]
+  }

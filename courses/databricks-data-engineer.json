@@ -1,0 +1,91 @@
+{
+    "courses": {
+      "slug": "databricks-data-engineer",
+      "image": "/databricks.png",
+      "category": "Data Engineering",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+      "title": "Databricks Data Engineer Training & Certification",
+      "description": "Build practical skills in modern data engineering with Databricks, Apache Spark, Delta Lake, data pipelines, ETL and ELT workflows, cloud data platforms, performance optimization, and real-world data engineering projects.",
+  
+      "price": {
+        "title": "Course Price",
+        "original": "₹25,000",
+        "amount": "₹15,000",
+        "discount": "40% OFF",
+        "note": "Inclusive of all taxes"
+      },
+  
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:+919999999999"
+      },
+  
+      "includes": [
+        {
+          "id": 1,
+          "text": "Data Engineering Fundamentals"
+        },
+        {
+          "id": 2,
+          "text": "Apache Spark Fundamentals"
+        },
+        {
+          "id": 3,
+          "text": "Databricks Platform & Architecture"
+        },
+        {
+          "id": 4,
+          "text": "Delta Lake & Lakehouse Architecture"
+        },
+        {
+          "id": 5,
+          "text": "Data Ingestion & ETL Pipelines"
+        },
+        {
+          "id": 6,
+          "text": "Databricks Workflows & Jobs"
+        },
+        {
+          "id": 7,
+          "text": "Performance Optimization"
+        },
+        {
+          "id": 8,
+          "text": "Hands-on Data Engineering Projects"
+        }
+      ],
+  
+      "socials": [
+        {
+          "id": 1,
+          "icon": "facebook",
+          "href": "https://www.facebook.com/"
+        },
+        {
+          "id": 2,
+          "icon": "linkedin",
+          "href": "https://www.linkedin.com/"
+        },
+        {
+          "id": 3,
+          "icon": "whatsapp",
+          "href": "https://wa.me/919999999999"
+        },
+        {
+          "id": 4,
+          "icon": "twitter",
+          "href": "https://x.com/"
+        }
+      ],
+  
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/919999999999"
+        },
+        "message": {
+          "href": "tel:+919999999999"
+        }
+      }
+    }
+  }

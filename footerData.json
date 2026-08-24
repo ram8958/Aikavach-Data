@@ -1,0 +1,72 @@
+{
+    "logo": {
+      "title": "AI",
+      "subtitle": "Kavach",
+      "href": "/"
+    },
+  
+    "description": "",
+  
+    "verifyButton": {
+      "title": "Enroll now",
+      "href": "/verify-certificate"
+    },
+  
+    "quickLinks": [
+      {
+        "title": "Home",
+        "href": "/"
+      },
+      {
+        "title": "About Us",
+        "href": "/about"
+      },
+     
+      {
+        "title": "Contact Us",
+        "href": "/contact"
+      },
+      
+      {
+        "title": "Terms & Conditions",
+        "href": "/terms-and-conditions"
+      }
+    ],
+  
+    "contact": {
+      "phone": "+91 7217670118",
+      "phoneHref": "tel:+917217670118",
+  
+      "email": "enquiry@qbitlearning.in",
+      "emailHref": "mailto:enquiry@qbitlearning.in",
+  
+      "address": "QBit Learning, India"
+    },
+  
+    "social": [
+      {
+        "name": "Instagram",
+        "href": "#",
+        "icon": "instagram",
+        "bgColor": "#2B2B2B"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "#",
+        "icon": "linkedin",
+        "bgColor": "#0A66C2"
+      },
+      {
+        "name": "WhatsApp",
+        "href": "https://wa.me/7217670118",
+        "icon": "whatsapp",
+        "bgColor": "#25D366"
+      },
+      {
+        "name": "YouTube",
+        "href": "#",
+        "icon": "youtube",
+        "bgColor": "#FF0000"
+      }
+    ]
+  }

@@ -1,0 +1,145 @@
+{
+    "tabs": [
+      {
+        "id": "overview",
+        "title": "Overview"
+      },
+      {
+        "id": "objectives",
+        "title": "Objectives"
+      },
+      {
+        "id": "syllabus",
+        "title": "Syllabus"
+      }
+    ],
+  
+    "overview": {
+      "heading": "Overview",
+      "description": "OSAI+: Advanced AI Red Teaming (AI-300) is OffSec's hands-on AI cybersecurity course designed to teach security professionals how to assess and exploit modern AI systems, including generative AI, LLMs, and multi-agent environments. Through practical labs and real-world scenarios, learners develop offensive techniques for attacking AI applications, strengthening threat detection, leveraging threat intelligence, and improving cyber defense strategies across AI infrastructure while preparing for an industry-recognized AI cybersecurity certification.",
+  
+      "content": [
+        "Advanced AI Red Teaming (AI-300) is an enterprise-level AI cybersecurity program designed to help security professionals identify, assess, and exploit vulnerabilities across modern artificial intelligence systems. As organizations rapidly adopt Large Language Models (LLMs), autonomous agents, Retrieval-Augmented Generation (RAG), and AI orchestration frameworks, the attack surface continues to expand, creating entirely new security challenges.",
+  
+        "This course combines proven offensive security methodologies with modern AI attack techniques. Learners explore prompt injection, jailbreak attacks, AI agent exploitation, RAG manipulation, model behavior testing, adversarial attacks, and infrastructure security through extensive hands-on labs and real-world scenarios.",
+  
+        "The curriculum emphasizes practical skills over theory, enabling professionals to perform offensive AI security assessments while understanding defensive strategies required to secure enterprise AI deployments."
+      ]
+    },
+  
+    "objectives": {
+      "heading": "Learning Objectives",
+  
+      "description": "The following learning objectives highlight the key skills and knowledge areas learners will develop as they progress through the AI-300 course.",
+  
+      "title": "After completing this course, learners will be able to:",
+  
+      "items": [
+        "Identify and map attack surfaces across modern AI systems including LLMs, Generative AI and Machine Learning platforms.",
+        "Perform reconnaissance and threat modeling for enterprise AI deployments.",
+        "Exploit vulnerabilities in AI agents and multi-agent systems.",
+        "Conduct Prompt Injection and Jailbreak attacks against production AI applications.",
+        "Exploit Retrieval-Augmented Generation (RAG) pipelines and vector databases.",
+        "Attack embeddings and sensitive model information.",
+        "Assess Model Context Protocol (MCP) implementations and AI tool integrations.",
+        "Perform adversarial testing against deployed AI models.",
+        "Evaluate AI infrastructure security and cloud AI environments.",
+        "Generate professional AI security assessment reports."
+      ]
+    },
+  
+    "syllabus": {
+      "heading": "Syllabus",
+  
+      "description": "The AI-300 syllabus provides hands-on offensive AI security training covering modern attack techniques against enterprise AI systems, LLMs, RAG pipelines, AI agents, orchestration frameworks, and production deployments through practical labs.",
+  
+      "button": {
+        "title": "Download Syllabus",
+        "href": "/pdf/AI-300-Syllabus.pdf"
+      },
+  
+      "items": [
+        {
+          "id": 1,
+          "title": "Introduction to Red Teaming AI Systems",
+          "topics": [
+            "Understanding AI Attack Surface",
+            "Generative AI Overview",
+            "Threat Landscape"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Reconnaissance for AI Targets",
+          "topics": [
+            "Model Enumeration",
+            "OSINT",
+            "Threat Intelligence"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Attacking AI Agents",
+          "topics": [
+            "Agent Workflows",
+            "Tool Abuse",
+            "Memory Manipulation"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Attacking Multi-Agent Systems and A2A Protocols",
+          "topics": [
+            "Agent Communication",
+            "Prompt Chaining",
+            "Coordination Attacks"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Exploiting RAG Pipelines",
+          "topics": [
+            "Vector Databases",
+            "Retrieval Poisoning",
+            "Document Injection"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Attacking Embeddings",
+          "topics": [
+            "Embedding Leakage",
+            "Similarity Attacks",
+            "Data Extraction"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Attacking Model Context Protocol (MCP) and Tool Surfaces",
+          "topics": [
+            "MCP Security",
+            "Tool Exploitation",
+            "Privilege Escalation"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Prompt Injection and Jailbreak Attacks",
+          "topics": [
+            "Direct Prompt Injection",
+            "Indirect Prompt Injection",
+            "Prompt Escaping"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Enterprise AI Security Assessment",
+          "topics": [
+            "Assessment Methodology",
+            "Reporting",
+            "Mitigation"
+          ]
+        }
+      ]
+    }
+  }

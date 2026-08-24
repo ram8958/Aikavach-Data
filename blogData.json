@@ -1,0 +1,91 @@
+{
+    "badge": "Knowledge Hub",
+  
+    "titleBlue": "Cybersecurity",
+  
+    "titleWhite": "Blog",
+  
+    "description": "Stay updated with the latest cybersecurity trends, certification tips, and expert insights.",
+  
+    "searchPlaceholder": "Search blogs...",
+  
+    "categoryPlaceholder": "All Categories",
+  
+    "resultText": "Showing 2 blogs of 2",
+  
+    "categories": [
+      {
+        "id": 1,
+        "label": "All Categories",
+        "value": "all"
+      },
+      {
+        "id": 2,
+        "label": "News",
+        "value": "news"
+      },
+      {
+        "id": 3,
+        "label": "AI Security",
+        "value": "ai-security"
+      },
+      {
+        "id": 4,
+        "label": "Red Teaming",
+        "value": "red-teaming"
+      },
+      {
+        "id": 5,
+        "label": "Threat Intelligence",
+        "value": "threat-intelligence"
+      }
+    ],
+  
+    "blogs": [
+      {
+        "id": 1,
+        "slug": "zero-trust-security",
+        "image": "/blog1.png",
+        "badge": "News",
+        "category": "news",
+        "date":  "2026-06-23",
+        "views": " Views",
+        "title": "Ransomware-as-a-Service (RaaS): How Cybercriminals Scale Modern Attacks",
+        "description": "Learn what Ransomware-as-a-Service (RaaS) is, how it works, common attack methods, major threats, prevention strategies, and best practices to defend modern organizations.",
+        "author": {
+          "name": "Anonymous",
+          "avatar": "A"
+        }
+      },
+      {
+        "id": 2,
+        "slug": "unified-controls-framework",
+        "image": "/blog.png",
+        "badge": "AI Security",
+        "category": "ai-security",
+        "date": "2026-07-05",
+        "views": "Views",
+        "title": "unified-controls-framework: How Artificial Intelligence is Changing Cybersecurity",
+        "description": "Discover how AI-powered cyber attacks are transforming the cybersecurity landscape, including automated phishing, malware generation, deepfakes, and modern defense techniques.",
+        "author": {
+          "name": "Anonymous",
+          "avatar": "A"
+        }
+      },
+      {
+        "id": 3,
+        "slug": "cloud-security",
+        "image": "/blog.png",
+        "badge": "Cloud Security",
+        "category": "threat-intelligence",
+        "date": "2026-07-05",
+        "views": " Views",
+        "title": "Best Practices for Cloud Security",
+        "description": "Learn the essential cloud security best practices to protect applications, data, and infrastructure from modern cyber threats.",
+        "author": {
+          "name": "Anonymous",
+          "avatar": "A"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,79 @@
+{
+    "autoPlay": true,
+  
+    "interval": 5000,
+  
+    "advertisements": [
+      {
+        "id": 1,
+  
+        "badge": "AIKAVACH CERTIFICATION",
+  
+        "title": "Master AI Security",
+  
+        "subtitle": "Like a Professional",
+  
+        "description": "Become an AI Security Expert with 120+ Hours of Hands-on Labs, Offensive AI Security, Prompt Injection, LLM Security and Red Teaming.",
+  
+        "image": "/ads/ad1.png",
+  
+        "background": "#071226",
+  
+        "glow": "#2563EB",
+  
+        "button": {
+          "text": "Enroll Now",
+  
+          "href": "/courses/ai-300"
+        }
+      },
+  
+      {
+        "id": 2,
+  
+        "badge": "PROMPT ENGINEERING",
+  
+        "title": "Prompt Engineering",
+  
+        "subtitle": "Masterclass",
+  
+        "description": "Learn Prompt Engineering from Beginner to Advanced including Prompt Injection, Prompt Security and AI Automation.",
+  
+        "image": "/ads/ad2.png",
+  
+        "background": "#071226",
+  
+        "glow": "#0EA5E9",
+  
+        "button": {
+          "text": "Explore",
+  
+          "href": "/courses/prompt-engineering"
+        }
+      },
+  
+      {
+        "id": 3,
+  
+        "badge": "OSAI TRAINING",
+  
+        "title": "Enterprise",
+  
+        "subtitle": "AI Security",
+  
+        "description": "Hands-on Offensive AI Security Certification with Enterprise Labs and Real-World Attack Simulations.",
+  
+        "image": "/ads/ad3.png",
+  
+        "background": "#071226",
+  
+        "glow": "#38BDF8",
+  
+        "button": {
+          "text": "Join Now",
+  
+          "href": "/courses/osai"
+        }
+      }
+    ]
+  }

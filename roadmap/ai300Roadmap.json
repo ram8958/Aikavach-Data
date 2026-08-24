@@ -1,0 +1,313 @@
+{
+    "title": "AI-300 / AI Security Roadmap",
+  
+    "groups": [
+      {
+        "title": "AI & Machine Learning Fundamentals",
+        "items": [
+          {
+            "name": "AI Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Machine Learning Basics",
+            "status": "recommended"
+          },
+          {
+            "name": "Deep Learning Basics",
+            "status": "recommended"
+          },
+          {
+            "name": "Neural Networks",
+            "status": "alternative"
+          },
+          {
+            "name": "Generative AI",
+            "status": "recommended"
+          },
+          {
+            "name": "LLM Fundamentals",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Programming for AI Security",
+        "items": [
+          {
+            "name": "Python",
+            "status": "recommended"
+          },
+          {
+            "name": "Python for AI",
+            "status": "recommended"
+          },
+          {
+            "name": "APIs & JSON",
+            "status": "recommended"
+          },
+          {
+            "name": "Git & GitHub",
+            "status": "alternative"
+          },
+          {
+            "name": "Linux Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Command Line",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "LLM & GenAI Security",
+        "items": [
+          {
+            "name": "LLM Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Prompt Engineering",
+            "status": "recommended"
+          },
+          {
+            "name": "Prompt Injection",
+            "status": "recommended"
+          },
+          {
+            "name": "Jailbreak Attacks",
+            "status": "recommended"
+          },
+          {
+            "name": "System Prompt Security",
+            "status": "recommended"
+          },
+          {
+            "name": "LLM Security Testing",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "AI Attack Techniques",
+        "items": [
+          {
+            "name": "Prompt Injection Attacks",
+            "status": "recommended"
+          },
+          {
+            "name": "Indirect Prompt Injection",
+            "status": "recommended"
+          },
+          {
+            "name": "Model Manipulation",
+            "status": "recommended"
+          },
+          {
+            "name": "Adversarial Inputs",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Poisoning",
+            "status": "recommended"
+          },
+          {
+            "name": "Model Extraction",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "RAG Security",
+        "items": [
+          {
+            "name": "RAG Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Vector Databases",
+            "status": "recommended"
+          },
+          {
+            "name": "Embedding Security",
+            "status": "recommended"
+          },
+          {
+            "name": "RAG Prompt Injection",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Leakage",
+            "status": "recommended"
+          },
+          {
+            "name": "Retrieval Security",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "AI Agent Security",
+        "items": [
+          {
+            "name": "AI Agent Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Agent Tools & Functions",
+            "status": "recommended"
+          },
+          {
+            "name": "Tool Abuse",
+            "status": "recommended"
+          },
+          {
+            "name": "Agent Hijacking",
+            "status": "recommended"
+          },
+          {
+            "name": "Privilege Escalation",
+            "status": "recommended"
+          },
+          {
+            "name": "Agent Security Testing",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "AI Red Teaming",
+        "items": [
+          {
+            "name": "AI Reconnaissance",
+            "status": "recommended"
+          },
+          {
+            "name": "Attack Surface Mapping",
+            "status": "recommended"
+          },
+          {
+            "name": "LLM Red Teaming",
+            "status": "recommended"
+          },
+          {
+            "name": "AI Application Testing",
+            "status": "recommended"
+          },
+          {
+            "name": "Agent Red Teaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Adversarial Testing",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "AI Security Tools",
+        "items": [
+          {
+            "name": "Burp Suite",
+            "status": "recommended"
+          },
+          {
+            "name": "OWASP LLM Tools",
+            "status": "recommended"
+          },
+          {
+            "name": "Promptfoo",
+            "status": "alternative"
+          },
+          {
+            "name": "Garak",
+            "status": "recommended"
+          },
+          {
+            "name": "Nuclei",
+            "status": "alternative"
+          },
+          {
+            "name": "Python Security Tools",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "AI Security Standards",
+        "items": [
+          {
+            "name": "OWASP Top 10 for LLM",
+            "status": "recommended"
+          },
+          {
+            "name": "OWASP AI Security",
+            "status": "recommended"
+          },
+          {
+            "name": "MITRE ATLAS",
+            "status": "recommended"
+          },
+          {
+            "name": "AI Risk Management",
+            "status": "alternative"
+          },
+          {
+            "name": "AI Governance",
+            "status": "optional"
+          },
+          {
+            "name": "AI Security Best Practices",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Hands-on AI Security Labs",
+        "items": [
+          {
+            "name": "Prompt Injection Lab",
+            "status": "recommended"
+          },
+          {
+            "name": "Jailbreak Lab",
+            "status": "recommended"
+          },
+          {
+            "name": "RAG Security Lab",
+            "status": "recommended"
+          },
+          {
+            "name": "AI Agent Lab",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Poisoning Lab",
+            "status": "alternative"
+          },
+          {
+            "name": "AI Red Team Project",
+            "status": "recommended"
+          }
+        ]
+      }
+    ],
+  
+    "relatedRoadmaps": [
+      "Cyber Security",
+      "Ethical Hacking",
+      "Python",
+      "Red Teaming",
+      "DevSecOps"
+    ]
+  }

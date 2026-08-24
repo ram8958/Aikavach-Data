@@ -1,0 +1,91 @@
+{
+    "courses": {
+      "slug": "data-platform-engineer",
+      "image": "/dataplatform.png",
+      "category": "Data Engineering",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+      "title": "Data Platform Engineer Training & Certification",
+      "description": "Build practical skills to design, develop, and manage scalable modern data platforms using cloud infrastructure, data pipelines, data warehouses, data lakes, data governance, orchestration, monitoring, and real-world data engineering technologies.",
+  
+      "price": {
+        "title": "Course Price",
+        "original": "₹30,000",
+        "amount": "₹18,000",
+        "discount": "40% OFF",
+        "note": "Inclusive of all taxes"
+      },
+  
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:+919999999999"
+      },
+  
+      "includes": [
+        {
+          "id": 1,
+          "text": "Data Platform Fundamentals"
+        },
+        {
+          "id": 2,
+          "text": "Cloud Data Platform Architecture"
+        },
+        {
+          "id": 3,
+          "text": "Data Lakes & Data Warehouses"
+        },
+        {
+          "id": 4,
+          "text": "ETL & ELT Data Pipelines"
+        },
+        {
+          "id": 5,
+          "text": "Data Orchestration & Automation"
+        },
+        {
+          "id": 6,
+          "text": "Data Governance & Security"
+        },
+        {
+          "id": 7,
+          "text": "Monitoring & Performance Optimization"
+        },
+        {
+          "id": 8,
+          "text": "Hands-on Data Platform Projects"
+        }
+      ],
+  
+      "socials": [
+        {
+          "id": 1,
+          "icon": "facebook",
+          "href": "https://www.facebook.com/"
+        },
+        {
+          "id": 2,
+          "icon": "linkedin",
+          "href": "https://www.linkedin.com/"
+        },
+        {
+          "id": 3,
+          "icon": "whatsapp",
+          "href": "https://wa.me/919999999999"
+        },
+        {
+          "id": 4,
+          "icon": "twitter",
+          "href": "https://x.com/"
+        }
+      ],
+  
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/919999999999"
+        },
+        "message": {
+          "href": "tel:+919999999999"
+        }
+      }
+    }
+  }

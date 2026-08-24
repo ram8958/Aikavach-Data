@@ -1,0 +1,82 @@
+
+    {
+        "heading": " AIKavach FAQ",
+      
+        "items": [
+    {
+      "id": 1,
+      "question": "What is AIKavach?",
+      "answer": "AIKavach is a practical AI and Cybersecurity learning platform that helps students and professionals master AI Security, Offensive Security, DevSecOps, Cloud Security, Prompt Engineering, and modern cybersecurity technologies through hands-on labs, real-world projects, and industry-recognized certification programs."
+    },
+    {
+      "id": 2,
+      "question": "Who should join this course?",
+      "answer": "This course is ideal for cybersecurity professionals, software developers, DevOps engineers, cloud engineers, SOC analysts, security consultants, students, AI enthusiasts, and anyone who wants to build expertise in AI Security and secure modern AI applications."
+    },
+    {
+      "id": 3,
+      "question": "Is AI Security a good career?",
+      "answer": "Yes. AI Security is one of the fastest-growing technology domains. Organizations adopting Generative AI and Large Language Models need professionals who can secure AI systems, identify vulnerabilities, defend against prompt injection attacks, and implement responsible AI practices."
+    },
+    {
+      "id": 4,
+      "question": "Do I need cybersecurity experience?",
+      "answer": "No. The course starts with foundational concepts and gradually progresses to advanced AI Security techniques. Beginners can follow the learning path, while experienced professionals can directly apply the concepts in enterprise environments."
+    },
+    {
+      "id": 5,
+      "question": "Do I need programming knowledge?",
+      "answer": "Basic programming knowledge is helpful but not mandatory. The course includes step-by-step demonstrations using Python and practical examples to help learners understand AI Security concepts."
+    },
+    {
+      "id": 6,
+      "question": "Will I get hands-on labs?",
+      "answer": "Yes. Every module includes practical labs, guided exercises, attack simulations, and real-world security scenarios so you can gain practical experience instead of only theoretical knowledge."
+    },
+    {
+      "id": 7,
+      "question": "What projects will I build?",
+      "answer": "You will work on real-world AI Security projects such as securing LLM applications, prompt injection testing, AI Red Team exercises, secure RAG implementation, AI agent security, and enterprise security automation."
+    },
+    {
+      "id": 8,
+      "question": "Will I receive a certificate?",
+      "answer": "No, Only we provide tranning and ready for certification exam"
+    },
+    {
+      "id": 9,
+      "question": "Is the training live or self-paced?",
+      "answer": "AIKavach offers instructor-led live sessions along with recorded content, allowing you to revisit lessons anytime and learn at your own pace."
+    },
+    {
+      "id": 10,
+      "question": "Will I get lifetime access?",
+      "answer": "No. After completing the training, AIKavach provides access to the training videos. Users may download and revisit their live session recordings, but sharing them on social media or with any other individual is strictly prohibited."
+    },
+    {
+      "id": 11,
+      "question": "Will there be doubt-clearing sessions?",
+      "answer": "Yes. Dedicated doubt-clearing sessions, community discussions, and mentor support help you resolve technical questions throughout your learning journey."
+    },
+    {
+      "id": 12,
+      "question": "Does AIKavach provide placement assistance?",
+      "answer": "AIKavach provides career guidance, resume reviews, LinkedIn optimization, interview preparation, portfolio building, and job referral support through its professional network. Job placement cannot be guaranteed."
+    },
+    {
+      "id": 13,
+      "question": "Can I access the labs after completing the course?",
+      "answer": "Yes. Depending on your enrollment plan, you can continue accessing lab guides, downloadable resources, and selected practice environments after course completion."
+    },
+    {
+      "id": 14,
+      "question": "How is AIKavach different from other courses?",
+      "answer": "Unlike theory-focused courses, AIKavach emphasizes hands-on learning, enterprise case studies, AI Red Teaming, secure AI development, practical labs, and real-world projects that prepare learners for industry challenges."
+    },
+    {
+      "id": 15,
+      "question": "How do I enroll?",
+      "answer": "Simply click the 'Ask us ' button on the course page, complete the registration process, and you'll receive access instructions along with onboarding details before the course begins."
+    }
+  ]
+}

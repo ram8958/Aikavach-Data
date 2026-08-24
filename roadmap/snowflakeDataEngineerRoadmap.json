@@ -1,0 +1,247 @@
+
+{
+  "title": "Snowflake Data Engineer Roadmap",
+  "subtitle": "A structured learning path from Data Engineering fundamentals to advanced Snowflake development and real-world data pipelines.",
+  "status": {
+    "recommended": "Recommended",
+    "alternative": "Alternative",
+    "other": "Other"
+  },
+  "roadmap": [
+    {
+      "id": 1,
+      "title": "SQL Fundamentals",
+      "status": "recommended",
+      "description": "Build a strong foundation in SQL before working with Snowflake.",
+      "topics": [
+        "SQL Basics",
+        "SELECT, WHERE & ORDER BY",
+        "GROUP BY & HAVING",
+        "Joins",
+        "Subqueries",
+        "CTEs",
+        "Window Functions",
+        "Aggregate Functions"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Engineering",
+      "status": "recommended",
+      "description": "Learn the Python concepts commonly used in data engineering workflows.",
+      "topics": [
+        "Python Fundamentals",
+        "Functions",
+        "Lists, Tuples & Dictionaries",
+        "File Handling",
+        "Exception Handling",
+        "Working with JSON",
+        "Pandas Basics",
+        "Python Automation"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Data Engineering Fundamentals",
+      "status": "recommended",
+      "description": "Understand how modern data engineering systems work.",
+      "topics": [
+        "Data Engineering Concepts",
+        "ETL & ELT",
+        "Batch Processing",
+        "Data Pipelines",
+        "Data Warehousing",
+        "Data Lakes",
+        "Data Lakehouse",
+        "OLTP vs OLAP"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Snowflake Fundamentals",
+      "status": "recommended",
+      "description": "Understand Snowflake architecture and the core platform components.",
+      "topics": [
+        "Snowflake Introduction",
+        "Snowflake Architecture",
+        "Databases & Schemas",
+        "Tables & Views",
+        "Virtual Warehouses",
+        "Compute & Storage",
+        "Snowflake UI",
+        "SnowSQL"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Snowflake SQL & Data Transformation",
+      "status": "recommended",
+      "description": "Work with data inside Snowflake using SQL and transformation techniques.",
+      "topics": [
+        "Snowflake SQL",
+        "Data Types",
+        "DDL & DML",
+        "Joins",
+        "CTEs",
+        "Window Functions",
+        "Views",
+        "Temporary Tables",
+        "Data Transformation"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Data Loading in Snowflake",
+      "status": "recommended",
+      "description": "Learn how to load structured and semi-structured data into Snowflake.",
+      "topics": [
+        "Internal Stages",
+        "External Stages",
+        "File Formats",
+        "COPY INTO",
+        "CSV Data Loading",
+        "JSON Data Loading",
+        "Parquet Data",
+        "Data Validation"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Snowpipe & Continuous Data Loading",
+      "status": "recommended",
+      "description": "Build automated ingestion workflows using Snowpipe.",
+      "topics": [
+        "Snowpipe Fundamentals",
+        "Continuous Data Loading",
+        "Event-Based Loading",
+        "External Cloud Storage",
+        "Automated Ingestion",
+        "Error Handling",
+        "Monitoring Snowpipe"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Streams & Tasks",
+      "status": "recommended",
+      "description": "Build incremental data processing and automated workflows in Snowflake.",
+      "topics": [
+        "Snowflake Streams",
+        "Change Data Capture",
+        "Tasks",
+        "Task Scheduling",
+        "Incremental Processing",
+        "Task Dependencies",
+        "Automated Data Pipelines"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dynamic Tables",
+      "status": "recommended",
+      "description": "Learn modern declarative data transformation and pipeline patterns.",
+      "topics": [
+        "Dynamic Tables",
+        "Target Lag",
+        "Incremental Refresh",
+        "Data Transformation",
+        "Pipeline Design",
+        "Dynamic Table Monitoring"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Snowflake Performance Optimization",
+      "status": "recommended",
+      "description": "Learn techniques to improve query performance and control compute usage.",
+      "topics": [
+        "Query Performance",
+        "Query Profile",
+        "Warehouse Sizing",
+        "Auto Suspend",
+        "Auto Resume",
+        "Caching",
+        "Clustering",
+        "Cost Optimization"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Snowflake Security",
+      "status": "recommended",
+      "description": "Understand security, roles and access management in Snowflake.",
+      "topics": [
+        "Role-Based Access Control",
+        "Users & Roles",
+        "Privileges",
+        "Database Security",
+        "Schema Security",
+        "Data Sharing",
+        "Secure Views",
+        "Authentication"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Cloud Data Integration",
+      "status": "recommended",
+      "description": "Connect Snowflake with modern cloud storage and data engineering services.",
+      "topics": [
+        "Amazon S3",
+        "Azure Blob Storage",
+        "Google Cloud Storage",
+        "External Data Sources",
+        "Data Ingestion",
+        "Cloud-Based Pipelines"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Data Pipeline Development",
+      "status": "recommended",
+      "description": "Design and implement complete production-style data pipelines.",
+      "topics": [
+        "ETL Pipeline Design",
+        "ELT Pipeline Design",
+        "Incremental Loads",
+        "Data Validation",
+        "Error Handling",
+        "Pipeline Monitoring",
+        "Data Quality",
+        "Pipeline Automation"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Real-World Snowflake Projects",
+      "status": "recommended",
+      "description": "Apply Snowflake and data engineering skills through practical projects.",
+      "topics": [
+        "End-to-End ETL Project",
+        "Cloud Data Warehouse Project",
+        "Real-Time Data Pipeline",
+        "Incremental Data Pipeline",
+        "Data Transformation Project",
+        "Analytics Data Warehouse",
+        "Production-Style Pipeline"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Certification & Interview Preparation",
+      "status": "recommended",
+      "description": "Prepare for Snowflake-related certification and Data Engineer interviews.",
+      "topics": [
+        "Snowflake Interview Questions",
+        "SQL Interview Questions",
+        "Data Engineering Questions",
+        "Snowflake Architecture Questions",
+        "Scenario-Based Questions",
+        "Hands-on Practice",
+        "Resume Projects",
+        "Certification Preparation"
+      ]
+    }
+  ]
+}
+

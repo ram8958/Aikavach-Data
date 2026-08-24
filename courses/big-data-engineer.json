@@ -1,0 +1,105 @@
+{
+    "courses": {
+      "slug": "big-data-engineer",
+      "image": "/Bigdata.png",
+      "category": "Big Data Engineering",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+  
+      "title": "Big Data Engineer Training & Certification | Big Data Engineering Course",
+  
+      "description": "Our approach centers on hands-on Big Data engineering training, distributed data processing, Apache Spark, Hadoop, real-world data pipelines, and building industry-ready skills for modern Big Data Engineering roles.",
+  
+      "price": {
+        "title": "Course Price",
+        "amount": "₹12,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+  
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+  
+      "guide": {
+        "badge": "Course Guide",
+        "title": "Learn About Big Data Engineering Course Guidelines",
+        "description": "Understand the Big Data Engineer learning roadmap, distributed systems, Hadoop, Apache Spark, PySpark, data pipelines, cloud platforms, projects, and career opportunities.",
+        "button": {
+          "title": "View Guidelines",
+          "href": "/big-data-engineering-course-guidelines"
+        }
+      },
+  
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "Hands-on Big Data Engineering Labs"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Hadoop & HDFS Practice"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "Apache Spark & PySpark"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Big Data ETL & Data Pipelines"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "Kafka & Real-Time Data Processing"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Real-World Big Data Projects"
+        }
+      ],
+  
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+  
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    }
+  }

@@ -1,0 +1,380 @@
+{
+  "slug": "craft-prompt-design-framework",
+
+  "badge": "Prompt Engineering",
+
+  "title": "CRAFT Prompt Design Framework: A Professional Methodology for Writing Better AI Prompts",
+
+  "description": "Learn how the CRAFT Prompt Design Framework helps professionals write structured AI prompts using Context, Role, Action and Format. Includes practical examples from software development, cybersecurity, healthcare, finance, marketing and education.",
+
+  "image": "/blog/craft/craft-light.webp",
+
+  "imageCaption": "The CRAFT Prompt Design Framework",
+
+  "date": "01 Aug 2026",
+
+  "updatedDate": "01 Aug 2026",
+
+  "readTime": "18 min",
+
+  "views": "",
+  "category": "AI, Prompt Engineering, Generative AI",
+  "likes": "",
+  "shares": "",
+
+  "author": {
+    "name": "AIKavach Team",
+    "role": "AI Research",
+    "avatar": "A",
+    "image": "/author.png",
+    "github": ""
+  },
+
+  "floating": {
+    "likes": "",
+    "bookmarks": "",
+    "comments": ""
+  },
+
+  "sidebar": {
+    "title": "Stay Updated",
+    "description": "Get the latest AI and cybersecurity insights directly in your inbox.",
+    "placeholder": "Enter your email",
+    "button": {
+      "title": "Subscribe"
+    }
+  },
+
+  "previousPost": {
+    "title": "Cloud Security Best Practices",
+    "href": "/blog/cloud-security"
+  },
+
+  "nextPost": {
+    "title": "Unified Controls Framework",
+    "href": "/blog/unified-controls-framework"
+  },
+
+  "tableOfContents": [
+
+    {
+      "id":"introduction",
+      "title":"Introduction",
+      "href":"#introduction"
+    },
+
+    {
+      "id":"why-craft",
+      "title":"Why CRAFT?",
+      "href":"#why-craft"
+    },
+
+    {
+      "id":"context",
+      "title":"Context",
+      "href":"#context"
+    },
+
+    {
+      "id":"role",
+      "title":"Role",
+      "href":"#role"
+    },
+
+    {
+      "id":"action",
+      "title":"Action",
+      "href":"#action"
+    },
+
+    {
+      "id":"format",
+      "title":"Format",
+      "href":"#format"
+    },
+
+    {
+      "id":"examples",
+      "title":"Industry Examples",
+      "href":"#examples"
+    },
+
+    {
+      "id":"summary",
+      "title":"Summary",
+      "href":"#summary"
+    }
+
+  ],
+
+  "sections":[
+
+    {
+
+      "id":"introduction",
+      "anchor":"introduction",
+      "heading":"What is the CRAFT Prompt Design Framework?",
+      "description":"The CRAFT Prompt Design Framework is a structured methodology that helps users write high-quality AI prompts. Instead of asking vague questions, CRAFT provides enough business context so AI understands the objective, behaves like the correct expert, performs the required task and returns the response in the desired format.",
+      "image":"/blog/craft/craft-light.webp",
+      "points":[]
+
+    },
+
+    {
+
+      "id":"why-craft",
+      "anchor":"why-craft",
+      "heading":"Why Most AI Prompts Fail",
+      "description":"Many users simply ask AI a question without providing context. The AI has to guess the audience, business objective, technical level and expected output. This often produces generic answers.",
+      "points":[],
+      "infoBox":{
+        "title":"Traditional Prompt",
+        "description":"Explain SEO."
+      }
+
+    },
+
+    {
+
+      "id":"context",
+      "anchor":"context",
+      "heading":"C - Context",
+      "description":"Context explains the business problem and provides all background information.",
+      "image":"/blog/craft/context.webp",
+      "points":[],
+      "infoBox":{
+        "title":"SEO Example",
+        "description":"Improve my website. → I own AIKavach, an AI and Cybersecurity training platform. I want to improve SEO, AEO and AI Search visibility."
+      }
+
+    },
+
+    {
+
+      "id":"role",
+      "anchor":"role",
+      "heading":"R - Role",
+      "description":"Tell AI who it should become before answering.",
+      "image":"/blog/craft/role.webp",
+      "points":[],
+      "table":{
+
+        "headers":[
+
+          "Domain",
+
+          "Recommended Role"
+
+        ],
+
+        "rows":[
+
+          [
+
+            "Healthcare",
+
+            "Senior Doctor"
+
+          ],
+
+          [
+
+            "Cybersecurity",
+
+            "ISO 27001 Lead Auditor"
+
+          ],
+
+          [
+
+            "Software",
+
+            "Software Architect"
+
+          ],
+
+          [
+
+            "Finance",
+
+            "Financial Analyst"
+
+          ],
+
+          [
+
+            "Marketing",
+
+            "Digital Marketing Consultant"
+
+          ]
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "id":"action",
+      "anchor":"action",
+      "heading":"A - Action",
+      "description":"Action defines exactly what AI should perform.",
+      "image":"/blog/craft/action.webp",
+      "points":[
+
+        "Design",
+
+        "Compare",
+
+        "Generate",
+
+        "Analyze",
+
+        "Optimize",
+
+        "Summarize",
+
+        "Audit",
+
+        "Review"
+
+      ]
+
+    },
+
+    {
+
+      "id":"format",
+      "anchor":"format",
+      "heading":"F - Format",
+      "description":"Format controls how AI returns the answer.",
+      "image":"/blog/craft/format.webp",
+      "points":[],
+      "table":{
+
+        "headers":[
+
+          "Need",
+
+          "Format"
+
+        ],
+
+        "rows":[
+
+          [
+
+            "Presentation",
+
+            "PowerPoint"
+
+          ],
+
+          [
+
+            "API",
+
+            "JSON"
+
+          ],
+
+          [
+
+            "Documentation",
+
+            "Markdown"
+
+          ],
+
+          [
+
+            "Report",
+
+            "HTML"
+
+          ],
+
+          [
+
+            "Analytics",
+
+            "Excel"
+
+          ]
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "id":"examples",
+      "anchor":"examples",
+      "heading":"Complete Example",
+      "description":"Below is a complete enterprise prompt using CRAFT.",
+      "points":[],
+      "infoBox":{
+        "title":"Example Prompt",
+        "description":"Context: I own AIKavach... Role: Senior SEO Consultant... Action: Analyze my website... Format: Executive Report with JSON, Tables and Roadmap."
+      }
+
+    },
+
+    {
+
+      "id":"summary",
+      "anchor":"summary",
+      "heading":"Key Takeaways",
+      "description":"A strong prompt should always include necessary context, role, action, and format to guide the AI effectively.",
+      "points":[
+
+        "Always provide business context.",
+
+        "Assign an expert role.",
+
+        "Use measurable actions.",
+
+        "Specify the output format.",
+
+        "Review and improve prompts iteratively."
+
+      ],
+
+      "quote":{
+
+        "title":"AIKavach Recommendation",
+
+        "description":"Better prompts produce better AI."
+
+      }
+
+    }
+
+  ],
+
+  "comments": [],
+
+  "relatedBlogs": [
+    {
+      "slug": "cloud-security",
+      "title": "Cloud Security Best Practices",
+      "image": "/blog/blog3.png",
+      "badge": "Cloud Security",
+      "description": "Essential cloud security controls for modern organizations.",
+      "author": "AIKavach Team"
+    },
+    {
+      "slug": "unified-controls-framework",
+      "title": "Unified Controls Framework",
+      "image": "/blog/blog1.png",
+      "badge": "Compliance",
+      "description": "A unified approach to modern compliance and governance.",
+      "author": "AIKavach Team"
+    }
+  ]
+
+}

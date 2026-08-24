@@ -1,0 +1,121 @@
+{
+  "sectionTitle": "ONLINE PROGRAMS",
+  "programs": [
+    {
+      "id": 1,
+      "title": "AI-300",
+      "subtitle": "AI Certification",
+      "icon": "Brain",
+      "iconBg": "from-blue-600 to-indigo-500",
+      "slug": "ai-300",
+      "badge": {
+        "text": "Popular",
+        "color": "bg-yellow-400 text-black"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ethical Hacking",
+      "subtitle": "Cyber Security",
+      "icon": "ShieldCheck",
+      "iconBg": "from-violet-600 to-purple-500",
+      "slug": "ceh-v13",
+      "badge": {
+        "text": "Popular",
+        "color": "bg-yellow-400 text-black"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Security DevOps",
+      "subtitle": "DevSecOps",
+      "icon": "Code2",
+      "iconBg": "from-pink-600 to-rose-500",
+      "slug": "security-devops"
+    },
+    {
+      "id": 8,
+      "title": "Data Engineer",
+      "subtitle": "Build scalable data pipelines, work with databases, ETL, cloud data platforms, and modern data engineering technologies.",
+      "icon": "Database",
+      "iconBg": "from-blue-500 to-cyan-500",
+      "slug": "data-engineer",
+      "badge": {
+        "text": "POPULAR",
+        "color": "bg-blue-500/20 text-blue-300 border border-blue-400/30"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Data Engineer with Azure",
+      "subtitle": "Master Azure data engineering with cloud-based pipelines, Azure Data Factory, Databricks, Synapse, and data solutions.",
+      "icon": "Cloud",
+      "iconBg": "from-cyan-500 to-blue-600",
+      "slug": "data-engineer-with-azure",
+      "badge": {
+        "text": "AZURE",
+        "color": "bg-cyan-500/20 text-cyan-300 border border-cyan-400/30"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Big Data Engineer",
+      "subtitle": "Learn big data technologies, distributed systems, data processing, Hadoop, Spark, and scalable analytics platforms.",
+      "icon": "Database",
+      "iconBg": "from-indigo-500 to-purple-600",
+      "slug": "big-data-engineer",
+      "badge": {
+        "text": "ADVANCED",
+        "color": "bg-purple-500/20 text-purple-300 border border-purple-400/30"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Snowflake Data Engineer",
+      "subtitle": "Master Snowflake, SQL, data warehousing, data pipelines, Snowpipe, Streams, Tasks, and modern cloud data engineering.",
+      "icon": "Database",
+      "iconBg": "from-cyan-500 to-blue-600",
+      "slug": "snowflake-data-engineer",
+      "badge": {
+        "text": "POPULAR",
+        "color": "bg-cyan-500/20 text-cyan-300 border border-cyan-400/30"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Databricks Data Engineer",
+      "subtitle": "Master Databricks, Apache Spark, Delta Lake, lakehouse architecture, data pipelines, and modern data engineering.",
+      "icon": "Database",
+      "iconBg": "from-red-500 to-orange-500",
+      "slug": "databricks-data-engineer",
+      "badge": {
+        "text": "NEW",
+        "color": "bg-red-500/20 text-red-300 border border-red-400/30"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Data Platform Engineer",
+      "subtitle": "Learn to design, build, and manage scalable data platforms, cloud infrastructure, data pipelines, governance, and analytics systems.",
+      "icon": "Cloud",
+      "iconBg": "from-emerald-500 to-teal-600",
+      "slug": "data-platform-engineer",
+      "badge": {
+        "text": "ADVANCED",
+        "color": "bg-emerald-500/20 text-emerald-300 border border-emerald-400/30"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Cyber Security",
+      "subtitle": "Cyber Security Training",
+      "icon": "ShieldCheck",
+      "iconBg": "from-red-500 to-orange-500",
+      "slug": "cyber-security",
+      "badge": {
+        "text": "POPULAR",
+        "color": "bg-red-500/20 text-red-300 border border-red-400/30"
+      }
+    }
+  ]
+}

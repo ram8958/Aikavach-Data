@@ -1,0 +1,144 @@
+{
+    "hero": {
+      "badge": "ABOUT OUR TRAINING",
+      "title": "Practical AI Cybersecurity Training for Modern Professionals",
+      "subtitle": "Develop practical skills to secure modern AI systems through instructor-led training, realistic labs, and enterprise-focused learning.",
+      "description": "At AIKavach, our mission is to help professionals understand, assess, and secure AI-powered applications used in today's enterprises.",
+      "button": {
+        "title": "Explore Training",
+        "href": "/courses/ai-300"
+      }
+    },
+  
+    "mission": {
+      "title": "Our Mission",
+      "image": "/images/about/mission.webp",
+      "paragraphs": [
+        "At AIKavach, our mission is to help professionals develop practical skills to secure modern AI systems. We deliver instructor-led training that combines technical expertise with real-world experience, enabling participants to understand, assess, and protect AI-powered applications used in today's enterprises.",
+        "Our programs are designed for security professionals, software engineers, cloud architects, AI developers, penetration testers, auditors, and organizations seeking to strengthen their AI security capabilities."
+      ]
+    },
+  
+    "osai": {
+      "title": "OSAI - Offensive Security AI Training",
+      "description": "Our flagship OSAI (Offensive Security AI) program focuses on the security of Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG) applications, Model Context Protocol (MCP), and enterprise AI platforms.",
+      "features": [
+        {
+          "id": 1,
+          "title": "Analyze AI Application Architectures",
+          "description": "Understand enterprise AI architectures and identify security risks across AI-powered applications."
+        },
+        {
+          "id": 2,
+          "title": "Perform AI Security Assessments",
+          "description": "Use structured methodologies to assess AI applications and discover vulnerabilities."
+        },
+        {
+          "id": 3,
+          "title": "Understand AI Attack Techniques",
+          "description": "Learn common attack techniques targeting LLMs, AI agents, RAG systems, and enterprise AI platforms."
+        },
+        {
+          "id": 4,
+          "title": "Implement Security Controls",
+          "description": "Apply practical controls and best practices to secure AI-powered applications."
+        },
+        {
+          "id": 5,
+          "title": "Enterprise AI Security",
+          "description": "Adopt industry-recognized approaches for protecting modern enterprise AI environments."
+        }
+      ]
+    },
+  
+    "handsOn": {
+      "title": "Learn Through Hands-On Experience",
+      "image": "/images/about/hands-on.webp",
+      "description": "We believe practical experience is essential for mastering AI security. Every training session includes guided laboratory exercises where participants configure, test, and secure realistic AI environments.",
+      "points": [
+        "Building enterprise AI lab environments",
+        "Configuring AI applications and supporting infrastructure",
+        "Performing controlled AI security assessments",
+        "Exploring realistic AI attack scenarios",
+        "Applying defensive techniques to strengthen AI systems",
+        "Weekend live instructor-led sessions",
+        "Direct guidance from experienced instructors"
+      ]
+    },
+  
+    "audience": {
+      "title": "Designed for Working Professionals",
+      "description": "Our training is ideal for professionals looking to strengthen their AI security knowledge.",
+      "items": [
+        {
+          "id": 1,
+          "title": "Cybersecurity Professionals"
+        },
+        {
+          "id": 2,
+          "title": "Penetration Testers & Red Teamers"
+        },
+        {
+          "id": 3,
+          "title": "Cloud & DevSecOps Engineers"
+        },
+        {
+          "id": 4,
+          "title": "Software Developers"
+        },
+        {
+          "id": 5,
+          "title": "Security Architects & Consultants"
+        },
+        {
+          "id": 6,
+          "title": "Enterprise Security Teams"
+        }
+      ]
+    },
+  
+    "whyChoose": {
+      "title": "Why Choose AIKavach?",
+      "items": [
+        {
+          "id": 1,
+          "title": "Instructor-Led Weekend Live Training",
+          "description": "Learn directly from experienced AI security professionals."
+        },
+        {
+          "id": 2,
+          "title": "Practical Lab-Focused Learning",
+          "description": "Every concept is reinforced through guided hands-on labs."
+        },
+        {
+          "id": 3,
+          "title": "Enterprise AI Security Scenarios",
+          "description": "Work with realistic enterprise AI environments."
+        },
+        {
+          "id": 4,
+          "title": "Guided AI Lab Configuration",
+          "description": "Configure AI platforms and supporting infrastructure step-by-step."
+        },
+        {
+          "id": 5,
+          "title": "Real-World Security Assessments",
+          "description": "Perform structured security assessments against AI systems."
+        },
+        {
+          "id": 6,
+          "title": "Mentorship & Technical Support",
+          "description": "Continue learning with guidance beyond the live sessions."
+        }
+      ]
+    },
+  
+    "cta": {
+      "title": "Secure Modern AI Systems with Confidence",
+      "description": "Our goal is to prepare professionals to understand, evaluate, and secure modern AI systems through structured training, realistic labs, and practical experience.",
+      "button": {
+        "title": "Start Your AI Security Journey",
+        "href": "/courses"
+      }
+    }
+  }

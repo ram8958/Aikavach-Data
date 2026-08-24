@@ -1,0 +1,69 @@
+{
+    "badge": "AI-300 • OSAI TRANNING",
+  
+    "heading": {
+  "blue": "AI-300 / OSAI Training",
+  "white": "Hands-on. Practical. Training.",
+  "whiteSecond": ""
+},
+  
+    "description": "Our approach centers on hands-on training, certification preparation, and building the skills that make you truly industry-ready for AI.",
+  
+    "price": {
+      "title": "Training Fee",
+      "amount": "₹12,000"
+    },
+  
+    "level": "Intermediate to Advanced",
+  
+    "duration": "120+ Hours Live Training",
+  
+    "features": [
+      {
+        "id": 1,
+        "text": "Enterprise AI Security Hands-on Labs"
+      },
+      {
+        "id": 2,
+        "text": "Prompt Injection & Jailbreak Testing"
+      },
+      {
+        "id": 3,
+        "text": "RAG & AI Agent Security"
+      },
+      {
+        "id": 4,
+        "text": "Real World Attack Simulations"
+      }
+    ],
+  
+    "buttons": {
+        "enroll": {
+            "title": "Enroll Now",
+            "href": "programs/ai-300"
+          },
+  
+      "learnMore": {
+        "title": " Syllabus",
+        "href": "syllabus/ai-300"
+      }
+    },
+  
+    "slides": [
+      {
+        "id": 1,
+        "image": "/hero1.jpeg",
+        "alt": "AI Security"
+      },
+      {
+        "id": 2,
+        "image": "/hero2.png",
+        "alt": "Prompt Injection"
+      },
+      {
+        "id": 3,
+        "image": "/hero3.jpeg",
+        "alt": "Enterprise AI"
+      }
+    ]
+  }

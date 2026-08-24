@@ -1,0 +1,528 @@
+{
+    "slug": "data-engineer-with-azure",
+    "title": "Data Engineer with Azure Roadmap",
+    "groups": [
+      {
+        "title": "DATA ENGINEERING FUNDAMENTALS",
+        "items": [
+          {
+            "name": "Data Engineering Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Engineer Roles & Responsibilities",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Engineering Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "OLTP vs OLAP",
+            "status": "recommended"
+          },
+          {
+            "name": "Batch vs Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lakes & Warehouses",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "SQL & DATABASES",
+        "items": [
+          {
+            "name": "SQL Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Joins",
+            "status": "recommended"
+          },
+          {
+            "name": "Subqueries & CTEs",
+            "status": "recommended"
+          },
+          {
+            "name": "Window Functions",
+            "status": "recommended"
+          },
+          {
+            "name": "Indexes",
+            "status": "alternative"
+          },
+          {
+            "name": "Query Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure SQL Database",
+            "status": "recommended"
+          },
+          {
+            "name": "SQL Server",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "PYTHON FOR DATA ENGINEERING",
+        "items": [
+          {
+            "name": "Python Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Data Structures",
+            "status": "recommended"
+          },
+          {
+            "name": "Functions & Modules",
+            "status": "recommended"
+          },
+          {
+            "name": "Object-Oriented Programming",
+            "status": "alternative"
+          },
+          {
+            "name": "File Handling",
+            "status": "recommended"
+          },
+          {
+            "name": "JSON & CSV Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Pandas",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Automation",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE FUNDAMENTALS",
+        "items": [
+          {
+            "name": "Azure Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Portal",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Resource Groups",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Subscriptions",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Regions",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Storage",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Identity & Access",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE DATA LAKE STORAGE",
+        "items": [
+          {
+            "name": "Azure Data Lake Storage Gen2",
+            "status": "recommended"
+          },
+          {
+            "name": "Storage Accounts",
+            "status": "recommended"
+          },
+          {
+            "name": "Containers & Filesystems",
+            "status": "recommended"
+          },
+          {
+            "name": "Hierarchical Namespace",
+            "status": "recommended"
+          },
+          {
+            "name": "Access Control",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure RBAC",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lake Security",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE DATA FACTORY",
+        "items": [
+          {
+            "name": "Azure Data Factory",
+            "status": "recommended"
+          },
+          {
+            "name": "Linked Services",
+            "status": "recommended"
+          },
+          {
+            "name": "Datasets",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipelines",
+            "status": "recommended"
+          },
+          {
+            "name": "Activities",
+            "status": "recommended"
+          },
+          {
+            "name": "Copy Activity",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Flows",
+            "status": "recommended"
+          },
+          {
+            "name": "Triggers",
+            "status": "recommended"
+          },
+          {
+            "name": "Parameters & Variables",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE DATABRICKS",
+        "items": [
+          {
+            "name": "Azure Databricks Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Databricks Workspace",
+            "status": "recommended"
+          },
+          {
+            "name": "Apache Spark",
+            "status": "recommended"
+          },
+          {
+            "name": "PySpark",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark DataFrames",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark SQL",
+            "status": "recommended"
+          },
+          {
+            "name": "Delta Lake",
+            "status": "recommended"
+          },
+          {
+            "name": "Databricks Workflows",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE SYNAPSE ANALYTICS",
+        "items": [
+          {
+            "name": "Azure Synapse Analytics",
+            "status": "recommended"
+          },
+          {
+            "name": "Dedicated SQL Pools",
+            "status": "recommended"
+          },
+          {
+            "name": "Serverless SQL Pools",
+            "status": "recommended"
+          },
+          {
+            "name": "Synapse Pipelines",
+            "status": "recommended"
+          },
+          {
+            "name": "Synapse Workspace",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Integration",
+            "status": "recommended"
+          },
+          {
+            "name": "Performance Optimization",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "ETL & DATA PIPELINES",
+        "items": [
+          {
+            "name": "ETL Concepts",
+            "status": "recommended"
+          },
+          {
+            "name": "ELT Concepts",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Extraction",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Transformation",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Loading",
+            "status": "recommended"
+          },
+          {
+            "name": "Incremental Loading",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Error Handling",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Validation",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "DATA WAREHOUSING",
+        "items": [
+          {
+            "name": "Data Warehouse Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Fact Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Dimension Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Star Schema",
+            "status": "recommended"
+          },
+          {
+            "name": "Snowflake Schema",
+            "status": "alternative"
+          },
+          {
+            "name": "Dimensional Modeling",
+            "status": "recommended"
+          },
+          {
+            "name": "Slowly Changing Dimensions",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE STREAMING & REAL-TIME DATA",
+        "items": [
+          {
+            "name": "Azure Event Hubs",
+            "status": "recommended"
+          },
+          {
+            "name": "Event Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Real-Time Data Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Stream Analytics",
+            "status": "recommended"
+          },
+          {
+            "name": "Event-Driven Architecture",
+            "status": "alternative"
+          },
+          {
+            "name": "Real-Time Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "DATA GOVERNANCE & SECURITY",
+        "items": [
+          {
+            "name": "Data Governance",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Security",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure RBAC",
+            "status": "recommended"
+          },
+          {
+            "name": "Managed Identities",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Key Vault",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lineage",
+            "status": "alternative"
+          },
+          {
+            "name": "Access Management",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "MONITORING & OPTIMIZATION",
+        "items": [
+          {
+            "name": "Azure Monitor",
+            "status": "recommended"
+          },
+          {
+            "name": "Log Analytics",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Monitoring",
+            "status": "recommended"
+          },
+          {
+            "name": "Performance Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "Cost Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "Resource Optimization",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "REAL-WORLD AZURE PROJECTS",
+        "items": [
+          {
+            "name": "Azure ETL Pipeline Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Data Lake Project",
+            "status": "recommended"
+          },
+          {
+            "name": "ADF Data Pipeline Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Databricks Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Synapse Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Real-Time Azure Data Project",
+            "status": "recommended"
+          },
+          {
+            "name": "End-to-End Azure Data Engineering Project",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "JOB READY AZURE DATA ENGINEER",
+        "items": [
+          {
+            "name": "Azure Data Engineer Resume",
+            "status": "recommended"
+          },
+          {
+            "name": "GitHub Portfolio",
+            "status": "recommended"
+          },
+          {
+            "name": "SQL Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Interview Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Engineering System Design",
+            "status": "alternative"
+          },
+          {
+            "name": "Project Discussion",
+            "status": "recommended"
+          },
+          {
+            "name": "Mock Interviews",
+            "status": "recommended"
+          }
+        ]
+      }
+    ],
+    "relatedRoadmaps": [
+      "Data Engineer",
+      "Big Data Engineer",
+      "Azure Developer",
+      "Data Scientist",
+      "DevOps Engineer"
+    ]
+  }

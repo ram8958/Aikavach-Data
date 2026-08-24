@@ -1,0 +1,105 @@
+{
+    "courses": {
+      "slug": "data-engineer-with-azure",
+      "image": "/Azure.png",
+      "category": "Azure Data Engineering",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+  
+      "title": "Data Engineer with Azure Training & Certification | Azure Data Engineering Course",
+  
+      "description": "Our approach centers on hands-on Azure data engineering training, real-world projects, cloud data pipelines, and building industry-ready skills required to become a professional Azure Data Engineer.",
+  
+      "price": {
+        "title": "Course Price",
+        "amount": "₹12,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+  
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+  
+      "guide": {
+        "badge": "Course Guide",
+        "title": "Learn About Azure Data Engineering Course Guidelines",
+        "description": "Understand the Azure Data Engineer learning roadmap, course structure, Azure services, projects, certification path, and career opportunities.",
+        "button": {
+          "title": "View Guidelines",
+          "href": "/azure-data-engineering-course-guidelines"
+        }
+      },
+  
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "Hands-on Azure Data Engineering Labs"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Azure Data Factory Pipelines"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "Azure Data Lake Storage"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Azure Databricks & PySpark"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "Azure Synapse Analytics"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Real-World Azure Data Engineering Projects"
+        }
+      ],
+  
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+  
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    }
+  }

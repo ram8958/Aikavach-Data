@@ -1,0 +1,122 @@
+{
+  "courses": {
+    "slug": "security-devops",
+    "image": "/devops.png",
+    "category": "DevSecOps Training",
+    "duration": "100+ Hours",
+    "enrolled": "800+ Students",
+    "title": "Security DevOps (DevSecOps) Training & Certification | CI/CD, Kubernetes & Cloud Security",
+    "description": "Master DevSecOps by integrating security into every stage of the software development lifecycle. Learn secure coding, container security, Kubernetes security, CI/CD pipeline protection, cloud security, Infrastructure as Code (IaC) security, and real-world DevSecOps practices through hands-on labs and projects.",
+
+    "price": {
+      "title": "Course Price",
+      "amount": "₹15,000",
+      "original": "₹22,000",
+      "discount": "32% OFF",
+      "note": "Inclusive of all taxes"
+    },
+
+    "button": {
+      "title": "Contact With Us",
+      "href": "tel:7217670118"
+    },
+    "guide": {
+      "badge": "Certification Guide",
+      "title": "Learn About DevSecOps Certification",
+      "description": "Explore the certification roadmap, exam details and preparation resources.",
+      "button": {
+        "title": "View Guidelines",
+        "href": "/devsecops-certification-guidelines"
+      }
+    },
+
+    "includes": [
+      {
+        "id": 1,
+        "icon": "check",
+        "text": "100+ Hours Instructor-Led Training"
+      },
+      {
+        "id": 2,
+        "icon": "check",
+        "text": "Hands-on DevSecOps Labs"
+      },
+      {
+        "id": 3,
+        "icon": "check",
+        "text": "Secure CI/CD Pipeline Implementation"
+      },
+      {
+        "id": 4,
+        "icon": "check",
+        "text": "Docker & Container Security"
+      },
+      {
+        "id": 5,
+        "icon": "check",
+        "text": "Kubernetes Security"
+      },
+      {
+        "id": 6,
+        "icon": "check",
+        "text": "Infrastructure as Code (Terraform) Security"
+      },
+      {
+        "id": 7,
+        "icon": "check",
+        "text": "Cloud Security (AWS, Azure & GCP)"
+      },
+      {
+        "id": 8,
+        "icon": "check",
+        "text": "SAST, DAST & Dependency Scanning"
+      },
+      {
+        "id": 9,
+        "icon": "check",
+        "text": "Secrets Management & Compliance"
+      },
+      {
+        "id": 10,
+        "icon": "check",
+        "text": "Real-World DevSecOps Projects"
+      }
+    ],
+
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "name": "WhatsApp",
+        "icon": "whatsapp",
+        "href": "https://wa.me/917217670118"
+      }
+    ],
+
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/917217670118"
+      },
+      "message": {
+        "href": "tel:7217670118"
+      }
+    }
+  }
+}

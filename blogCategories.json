@@ -1,0 +1,26 @@
+[
+    {
+      "id": "all",
+      "name": "All Categories"
+    },
+    {
+      "id": "news",
+      "name": "News"
+    },
+    {
+      "id": "ai-security",
+      "name": "AI Security"
+    },
+    {
+      "id": "cloud-security",
+      "name": "Cloud Security"
+    },
+    {
+      "id": "red-teaming",
+      "name": "Red Teaming"
+    },
+    {
+      "id": "threat-intelligence",
+      "name": "Threat Intelligence"
+    }
+  ]

@@ -1,0 +1,94 @@
+{
+    "banner": {
+      "badge": "Live Learning",
+      "title": "Upcoming AI Security Webinars",
+      "description": "Join industry experts for live AI Security, Offensive AI, LLM Red Teaming, Prompt Engineering and Enterprise AI Security sessions.",
+      "image": "/webinar/banner.png"
+    },
+  
+    "webinars": [
+      {
+        "id": 1,
+        "slug": "offensive-ai-security",
+        "badge": "LIVE",
+        "title": "Offensive AI Security",
+        "description": "Learn Prompt Injection, Jailbreak Techniques, LLM Exploitation and Offensive AI Security with real-world demonstrations.",
+  
+        "image": "/webinar/webinar1.png",
+  
+        "date": "01 August 2026",
+        "time": "11:00 AM IST",
+        "location": "Online",
+  
+        "button": {
+          "text": "View Details",
+          "href": "/webinars/offensive-ai-security"
+        }
+      },
+  
+      {
+        "id": 2,
+        "slug": "osai-certification",
+        "badge": "FREE",
+  
+        "title": "OSAI+ Certification Webinar",
+  
+        "description": "Complete walkthrough of the OSAI+ Certification, syllabus, exam pattern, career roadmap and preparation strategy.",
+  
+        "image": "/webinar/webinar2.png",
+  
+        "date": "01 August 2026",
+        "time": "03:00 PM IST",
+        "location": "Online",
+  
+        "button": {
+          "text": "View Details",
+          "href": "/webinars/osai-certification"
+        }
+      },
+  
+      {
+        "id": 3,
+        "slug": "ai-red-team-workshop",
+  
+        "badge": "WORKSHOP",
+  
+        "title": "AI Red Team Workshop",
+  
+        "description": "Hands-on workshop covering Prompt Injection, AI Red Teaming, Adversarial Testing and Secure LLM Assessment.",
+  
+        "image": "/webinar/webinar3.png",
+  
+        "date": "30 August 2026",
+        "time": "06:30 PM IST",
+        "location": "Online",
+  
+        "button": {
+          "text": "View Details",
+          "href": "/webinars/ai-red-team-workshop"
+        }
+      },
+  
+      {
+        "id": 4,
+        "slug": "enterprise-ai-security-masterclass",
+  
+        "badge": "MASTERCLASS",
+  
+        "title": "Enterprise AI Security Masterclass",
+  
+        "description": "Learn Enterprise AI Governance, Secure AI Deployment, Compliance, Risk Management and AI Security Architecture.",
+  
+        "image": "/webinar/webinar4.png",
+  
+        "date": "05 September 2026",
+        "time": "07:00 PM IST",
+        "location": "Online",
+  
+        "button": {
+          "text": "View Details",
+          "href": "/webinars/enterprise-ai-security-masterclass"
+        }
+      }
+    ]
+  }

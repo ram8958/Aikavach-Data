@@ -1,0 +1,561 @@
+{
+    "slug": "data-engineer",
+    "title": "Data Engineer Roadmap",
+    "groups": [
+      {
+        "title": "FOUNDATIONS",
+        "items": [
+          {
+            "name": "Computer Science Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Engineering Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Linux Fundamentals",
+            "status": "alternative"
+          },
+          {
+            "name": "Git & GitHub",
+            "status": "recommended"
+          },
+          {
+            "name": "Networking Basics",
+            "status": "other"
+          },
+          {
+            "name": "Data Formats: JSON / CSV / XML",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "PROGRAMMING",
+        "items": [
+          {
+            "name": "Python",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Data Structures",
+            "status": "recommended"
+          },
+          {
+            "name": "Object-Oriented Programming",
+            "status": "alternative"
+          },
+          {
+            "name": "File Handling",
+            "status": "recommended"
+          },
+          {
+            "name": "Exception Handling",
+            "status": "recommended"
+          },
+          {
+            "name": "APIs & Automation",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "SQL & DATABASES",
+        "items": [
+          {
+            "name": "SQL Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Joins",
+            "status": "recommended"
+          },
+          {
+            "name": "Subqueries & CTEs",
+            "status": "recommended"
+          },
+          {
+            "name": "Window Functions",
+            "status": "recommended"
+          },
+          {
+            "name": "Indexes",
+            "status": "alternative"
+          },
+          {
+            "name": "Query Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "PostgreSQL",
+            "status": "recommended"
+          },
+          {
+            "name": "MySQL",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "DATA PROCESSING",
+        "items": [
+          {
+            "name": "Pandas",
+            "status": "recommended"
+          },
+          {
+            "name": "NumPy",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Cleaning",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Transformation",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Validation",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Quality",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "ETL / ELT",
+        "items": [
+          {
+            "name": "ETL Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "ELT Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Extraction",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Transformation",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Loading",
+            "status": "recommended"
+          },
+          {
+            "name": "Batch Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Incremental Loads",
+            "status": "alternative"
+          },
+          {
+            "name": "Pipeline Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "DATA WAREHOUSING",
+        "items": [
+          {
+            "name": "Data Warehouse Concepts",
+            "status": "recommended"
+          },
+          {
+            "name": "Fact Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Dimension Tables",
+            "status": "recommended"
+          },
+          {
+            "name": "Star Schema",
+            "status": "recommended"
+          },
+          {
+            "name": "Snowflake Schema",
+            "status": "alternative"
+          },
+          {
+            "name": "Dimensional Modeling",
+            "status": "recommended"
+          },
+          {
+            "name": "Slowly Changing Dimensions",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Marts",
+            "status": "other"
+          }
+        ]
+      },
+      {
+        "title": "DATA PIPELINE ORCHESTRATION",
+        "items": [
+          {
+            "name": "Apache Airflow",
+            "status": "recommended"
+          },
+          {
+            "name": "DAGs",
+            "status": "recommended"
+          },
+          {
+            "name": "Tasks & Operators",
+            "status": "recommended"
+          },
+          {
+            "name": "Scheduling",
+            "status": "recommended"
+          },
+          {
+            "name": "Dependencies",
+            "status": "recommended"
+          },
+          {
+            "name": "Sensors",
+            "status": "alternative"
+          },
+          {
+            "name": "Monitoring & Alerts",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "BIG DATA",
+        "items": [
+          {
+            "name": "Big Data Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Hadoop",
+            "status": "alternative"
+          },
+          {
+            "name": "HDFS",
+            "status": "alternative"
+          },
+          {
+            "name": "Apache Spark",
+            "status": "recommended"
+          },
+          {
+            "name": "Spark SQL",
+            "status": "recommended"
+          },
+          {
+            "name": "PySpark",
+            "status": "recommended"
+          },
+          {
+            "name": "DataFrames",
+            "status": "recommended"
+          },
+          {
+            "name": "Distributed Processing",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "CLOUD DATA ENGINEERING",
+        "items": [
+          {
+            "name": "Cloud Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Storage",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Databases",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Data Warehouses",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud ETL",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lakes",
+            "status": "recommended"
+          },
+          {
+            "name": "IAM & Security",
+            "status": "alternative"
+          },
+          {
+            "name": "Cloud Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "AZURE DATA ENGINEERING",
+        "items": [
+          {
+            "name": "Azure Fundamentals",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Data Lake Storage",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Data Factory",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Synapse Analytics",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Databricks",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure SQL Database",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Functions",
+            "status": "alternative"
+          },
+          {
+            "name": "Azure Event Hubs",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "DATA LAKE & LAKEHOUSE",
+        "items": [
+          {
+            "name": "Data Lake Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Lakehouse Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Delta Lake",
+            "status": "recommended"
+          },
+          {
+            "name": "ACID Transactions",
+            "status": "alternative"
+          },
+          {
+            "name": "Schema Evolution",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Versioning",
+            "status": "alternative"
+          },
+          {
+            "name": "Medallion Architecture",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "STREAMING & REAL-TIME DATA",
+        "items": [
+          {
+            "name": "Real-Time Data Processing",
+            "status": "recommended"
+          },
+          {
+            "name": "Apache Kafka",
+            "status": "recommended"
+          },
+          {
+            "name": "Kafka Producers & Consumers",
+            "status": "recommended"
+          },
+          {
+            "name": "Event Streaming",
+            "status": "recommended"
+          },
+          {
+            "name": "Stream Processing",
+            "status": "alternative"
+          },
+          {
+            "name": "Event-Driven Architecture",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "DATA ENGINEERING DEVOPS",
+        "items": [
+          {
+            "name": "Git & GitHub",
+            "status": "recommended"
+          },
+          {
+            "name": "CI/CD",
+            "status": "recommended"
+          },
+          {
+            "name": "Docker",
+            "status": "recommended"
+          },
+          {
+            "name": "Pipeline Testing",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Quality Testing",
+            "status": "recommended"
+          },
+          {
+            "name": "Logging",
+            "status": "recommended"
+          },
+          {
+            "name": "Monitoring",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "ADVANCED DATA ENGINEERING",
+        "items": [
+          {
+            "name": "Distributed Systems",
+            "status": "recommended"
+          },
+          {
+            "name": "Scalable Data Architecture",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Governance",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lineage",
+            "status": "alternative"
+          },
+          {
+            "name": "Data Security",
+            "status": "recommended"
+          },
+          {
+            "name": "Performance Optimization",
+            "status": "recommended"
+          },
+          {
+            "name": "Cost Optimization",
+            "status": "alternative"
+          }
+        ]
+      },
+      {
+        "title": "REAL-WORLD PROJECTS",
+        "items": [
+          {
+            "name": "End-to-End ETL Pipeline",
+            "status": "recommended"
+          },
+          {
+            "name": "E-Commerce Data Pipeline",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Warehouse Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Real-Time Streaming Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Data Engineering Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Big Data Processing Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Data Lakehouse Project",
+            "status": "alternative"
+          },
+          {
+            "name": "Airflow Pipeline Project",
+            "status": "recommended"
+          },
+          {
+            "name": "Capstone Data Engineering Project",
+            "status": "recommended"
+          }
+        ]
+      },
+      {
+        "title": "JOB READY",
+        "items": [
+          {
+            "name": "Data Engineer Resume",
+            "status": "recommended"
+          },
+          {
+            "name": "GitHub Portfolio",
+            "status": "recommended"
+          },
+          {
+            "name": "SQL Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "Python Interview Preparation",
+            "status": "recommended"
+          },
+          {
+            "name": "ETL Interview Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "Cloud Interview Questions",
+            "status": "recommended"
+          },
+          {
+            "name": "System Design",
+            "status": "alternative"
+          },
+          {
+            "name": "Mock Interviews",
+            "status": "recommended"
+          }
+        ]
+      }
+    ],
+    "relatedRoadmaps": [
+      "Data Analyst",
+      "Data Scientist",
+      "Azure Data Engineer",
+      "Big Data Engineer",
+      "DevOps Engineer"
+    ]
+  }

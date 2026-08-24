@@ -1,0 +1,107 @@
+{
+  "courses": 
+    {
+      "slug": "ai-300",
+      "image": "/promptengineering.png",
+      "category": "OSAI Handson Labs",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+
+      "title": "OSAI+ (AI-300) Training & Certification | Offensive Security AI Security Certification Training.",
+
+      "description": "Our approach centers on hands-on training, certification preparation, and building the skills that make you truly industry-ready",
+
+      "price": {
+        "title": "Course Price",
+        "amount": "₹12,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+      "guide": {
+        "badge": "Certification Guide",
+        "title": "Learn About OSAI Certification Guidelines",
+        "description": "Understand the certification roadmap, eligibility, exam pattern and preparation guide.",
+        "button": {
+          "title": "View Guidelines",
+          "href": "/osai-certification-guidelines"
+        }
+      },
+
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "Hands-on Practice"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Lab Setup & Configuration"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "AI Security Labs"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Prompt Injection & Jailbreak Labs"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "RAG & AI Agent Security"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Enterprise AI Red Team Exercises"
+        }
+      ],
+
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    }
+
+
+}

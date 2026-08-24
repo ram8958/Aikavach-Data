@@ -1,0 +1,626 @@
+{
+    "title": "DevOps",
+  
+    "groups": [
+      {
+        "title": "Learn a Programming Language",
+        "items": [
+          {
+            "name": "Python",
+            "status": "recommended"
+          },
+          {
+            "name": "Ruby",
+            "status": "alternative"
+          },
+          {
+            "name": "Go",
+            "status": "recommended"
+          },
+          {
+            "name": "Rust",
+            "status": "alternative"
+          },
+          {
+            "name": "JavaScript / Node.js",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Operating System",
+        "items": [
+          {
+            "name": "Windows",
+            "status": "alternative"
+          },
+          {
+            "name": "FreeBSD",
+            "status": "recommended"
+          },
+          {
+            "name": "Ubuntu / Debian",
+            "status": "recommended"
+          },
+          {
+            "name": "OpenBSD",
+            "status": "alternative"
+          },
+          {
+            "name": "SUSE Linux",
+            "status": "alternative"
+          },
+          {
+            "name": "NetBSD",
+            "status": "alternative"
+          },
+          {
+            "name": "RHEL / Derivatives",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Terminal Knowledge",
+        "items": [
+          {
+            "name": "Bash",
+            "status": "recommended"
+          },
+          {
+            "name": "Power Shell",
+            "status": "alternative"
+          },
+          {
+            "name": "Vim / Nano / Emacs",
+            "status": "recommended"
+          },
+          {
+            "name": "Process Monitoring",
+            "status": "recommended"
+          },
+          {
+            "name": "Performance Monitoring",
+            "status": "recommended"
+          },
+          {
+            "name": "Networking Tools",
+            "status": "recommended"
+          },
+          {
+            "name": "Text Manipulation",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Version Control Systems",
+        "items": [
+          {
+            "name": "Git",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "VCS Hosting",
+        "items": [
+          {
+            "name": "GitHub",
+            "status": "recommended"
+          },
+          {
+            "name": "GitLab",
+            "status": "alternative"
+          },
+          {
+            "name": "Bitbucket",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Containers",
+        "items": [
+          {
+            "name": "Docker",
+            "status": "recommended"
+          },
+          {
+            "name": "LXC",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "What is and how to setup X?",
+        "items": [
+          {
+            "name": "Forward Proxy",
+            "status": "recommended"
+          },
+          {
+            "name": "Reverse Proxy",
+            "status": "recommended"
+          },
+          {
+            "name": "Caching Server",
+            "status": "recommended"
+          },
+          {
+            "name": "Firewall",
+            "status": "recommended"
+          },
+          {
+            "name": "Load Balancer",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Web Server",
+        "items": [
+          {
+            "name": "Nginx",
+            "status": "recommended"
+          },
+          {
+            "name": "Caddy",
+            "status": "alternative"
+          },
+          {
+            "name": "Tomcat",
+            "status": "alternative"
+          },
+          {
+            "name": "Apache",
+            "status": "alternative"
+          },
+          {
+            "name": "IIS",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Networking & Protocols",
+        "items": [
+          {
+            "name": "FTP / SFTP",
+            "status": "optional"
+          },
+          {
+            "name": "DNS",
+            "status": "recommended"
+          },
+          {
+            "name": "HTTP",
+            "status": "recommended"
+          },
+          {
+            "name": "HTTPS",
+            "status": "recommended"
+          },
+          {
+            "name": "SSL / TLS",
+            "status": "recommended"
+          },
+          {
+            "name": "SSH",
+            "status": "recommended"
+          },
+          {
+            "name": "OSI Model",
+            "status": "optional"
+          }
+        ]
+      },
+  
+      {
+        "title": "Email Protocols",
+        "items": [
+          {
+            "name": "White / Grey Listing",
+            "status": "optional"
+          },
+          {
+            "name": "SMTP",
+            "status": "optional"
+          },
+          {
+            "name": "DMARC",
+            "status": "optional"
+          },
+          {
+            "name": "IMAP",
+            "status": "optional"
+          },
+          {
+            "name": "SPF",
+            "status": "optional"
+          },
+          {
+            "name": "POP3S",
+            "status": "optional"
+          },
+          {
+            "name": "Domain Keys",
+            "status": "optional"
+          }
+        ]
+      },
+  
+      {
+        "title": "Network Engineer",
+        "items": []
+      },
+  
+      {
+        "title": "Cloud Providers",
+        "items": [
+          {
+            "name": "AWS",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure",
+            "status": "recommended"
+          },
+          {
+            "name": "Google Cloud",
+            "status": "recommended"
+          },
+          {
+            "name": "Digital Ocean",
+            "status": "alternative"
+          },
+          {
+            "name": "Hetzner",
+            "status": "alternative"
+          },
+          {
+            "name": "Render",
+            "status": "alternative"
+          },
+          {
+            "name": "Alibaba Cloud",
+            "status": "alternative"
+          },
+          {
+            "name": "Heroku",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Serverless",
+        "items": [
+          {
+            "name": "Cloudflare",
+            "status": "recommended"
+          },
+          {
+            "name": "Azure Functions",
+            "status": "alternative"
+          },
+          {
+            "name": "Vercel",
+            "status": "alternative"
+          },
+          {
+            "name": "Netlify",
+            "status": "alternative"
+          },
+          {
+            "name": "GCP Functions",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Configuration Management",
+        "items": [
+          {
+            "name": "Chef",
+            "status": "alternative"
+          },
+          {
+            "name": "Ansible",
+            "status": "recommended"
+          },
+          {
+            "name": "Salt",
+            "status": "alternative"
+          },
+          {
+            "name": "Puppet",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Provisioning",
+        "items": [
+          {
+            "name": "AWS CDK",
+            "status": "alternative"
+          },
+          {
+            "name": "CloudFormation",
+            "status": "alternative"
+          },
+          {
+            "name": "Pulumi",
+            "status": "alternative"
+          },
+          {
+            "name": "Terraform",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Logs Management",
+        "items": [
+          {
+            "name": "Papertrail",
+            "status": "alternative"
+          },
+          {
+            "name": "Splunk",
+            "status": "alternative"
+          },
+          {
+            "name": "Loki",
+            "status": "recommended"
+          },
+          {
+            "name": "Elastic Stack",
+            "status": "recommended"
+          },
+          {
+            "name": "Graylog",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "CI / CD Tools",
+        "items": [
+          {
+            "name": "Railway",
+            "status": "alternative"
+          },
+          {
+            "name": "Buildkite",
+            "status": "alternative"
+          },
+          {
+            "name": "TeamCity",
+            "status": "alternative"
+          },
+          {
+            "name": "Jenkins",
+            "status": "alternative"
+          },
+          {
+            "name": "GitLab CI",
+            "status": "recommended"
+          },
+          {
+            "name": "Circle CI",
+            "status": "recommended"
+          },
+          {
+            "name": "Octopus Deploy",
+            "status": "alternative"
+          },
+          {
+            "name": "GitHub Actions",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Infrastructure Monitoring",
+        "items": [
+          {
+            "name": "Prometheus",
+            "status": "recommended"
+          },
+          {
+            "name": "Grafana",
+            "status": "recommended"
+          },
+          {
+            "name": "Zabbix",
+            "status": "alternative"
+          },
+          {
+            "name": "Datadog",
+            "status": "recommended"
+          }
+        ]
+      },
+  
+      {
+        "title": "Secret Management",
+        "items": [
+          {
+            "name": "Sealed Secrets",
+            "status": "alternative"
+          },
+          {
+            "name": "ESO",
+            "status": "alternative"
+          },
+          {
+            "name": "Vault",
+            "status": "recommended"
+          },
+          {
+            "name": "SOPs",
+            "status": "alternative"
+          },
+          {
+            "name": "Cloud Specific Tools",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Artifact Management",
+        "items": [
+          {
+            "name": "Artifactory",
+            "status": "recommended"
+          },
+          {
+            "name": "Nexus",
+            "status": "alternative"
+          },
+          {
+            "name": "Cloud Smith",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "GitOps",
+        "items": [
+          {
+            "name": "ArgoCD",
+            "status": "recommended"
+          },
+          {
+            "name": "FluxCD",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Container Orchestration",
+        "items": [
+          {
+            "name": "GKE / EKS / AKS",
+            "status": "alternative"
+          },
+          {
+            "name": "AWS ECS / Fargate",
+            "status": "alternative"
+          },
+          {
+            "name": "Docker Swarm",
+            "status": "alternative"
+          },
+          {
+            "name": "Kubernetes",
+            "status": "recommended"
+          },
+          {
+            "name": "OpenShift",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Observability",
+        "items": [
+          {
+            "name": "Jaeger",
+            "status": "alternative"
+          },
+          {
+            "name": "New Relic",
+            "status": "alternative"
+          },
+          {
+            "name": "Datadog",
+            "status": "alternative"
+          },
+          {
+            "name": "Prometheus",
+            "status": "alternative"
+          },
+          {
+            "name": "OpenTelemetry",
+            "status": "alternative"
+          },
+          {
+            "name": "Dynatrace",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Service Mesh",
+        "items": [
+          {
+            "name": "Istio",
+            "status": "recommended"
+          },
+          {
+            "name": "Consul",
+            "status": "recommended"
+          },
+          {
+            "name": "Linkerd",
+            "status": "alternative"
+          },
+          {
+            "name": "Envoy",
+            "status": "alternative"
+          }
+        ]
+      },
+  
+      {
+        "title": "Cloud Design Patterns",
+        "items": [
+          {
+            "name": "Availability",
+            "status": "optional"
+          },
+          {
+            "name": "Data Management",
+            "status": "optional"
+          },
+          {
+            "name": "Design and Implementation",
+            "status": "optional"
+          },
+          {
+            "name": "Management and Monitoring",
+            "status": "optional"
+          }
+        ]
+      }
+    ],
+  
+    "relatedRoadmaps": [
+      "Backend",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "Network Engineer"
+    ]
+  }

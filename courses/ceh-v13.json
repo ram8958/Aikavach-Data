@@ -1,0 +1,117 @@
+{
+  "courses": {
+    "slug": "ceh-v13",
+    "image": "/ceh-v13.png",
+    "category": "EC-Council Certification",
+    "duration": "120+ Hours",
+    "enrolled": "1000+ Students",
+    "title": "Certified Ethical Hacker (CEH v13) Training & Certification",
+    "description": "Master ethical hacking with hands-on labs, real-world attack simulations, vulnerability assessment, penetration testing, malware analysis, and exam preparation. This course prepares you for the EC-Council CEH v13 certification and a career in cybersecurity.",
+    "price": {
+      "title": "Course Price",
+      "amount": "₹18,000",
+      "original": "₹25,000",
+      "discount": "28% OFF",
+      "note": "Inclusive of all taxes"
+    },
+    "button": {
+      "title": "Contact With Us",
+      "href": "tel:7217670118"
+    },
+    "guide": {
+      "badge": "Certification Guide",
+      "title": "Learn About CEH Certification",
+      "description": "Know eligibility, exam pattern, practical labs and certification process.",
+      "button": {
+        "title": "View Guidelines",
+        "href": "/ceh-certification-guidelines"
+      }
+    },
+    "includes": [
+      {
+        "id": 1,
+        "icon": "check",
+        "text": "Official CEH v13 Curriculum"
+      },
+      {
+        "id": 2,
+        "icon": "check",
+        "text": "120+ Hours Instructor-Led Training"
+      },
+      {
+        "id": 3,
+        "icon": "check",
+        "text": "Hands-on Ethical Hacking Labs"
+      },
+      {
+        "id": 4,
+        "icon": "check",
+        "text": "Web Application & Network Penetration Testing"
+      },
+      {
+        "id": 5,
+        "icon": "check",
+        "text": "Vulnerability Assessment & Exploitation"
+      },
+      {
+        "id": 6,
+        "icon": "check",
+        "text": "Malware Analysis & Reverse Engineering Basics"
+      },
+      {
+        "id": 7,
+        "icon": "check",
+        "text": "Active Directory & Windows Security"
+      },
+      {
+        "id": 8,
+        "icon": "check",
+        "text": "Cloud & IoT Security Fundamentals"
+      },
+      {
+        "id": 9,
+        "icon": "check",
+        "text": "Capture The Flag (CTF) Challenges"
+      },
+      {
+        "id": 10,
+        "icon": "check",
+        "text": "CEH v13 Exam Preparation"
+      }
+    ],
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "name": "WhatsApp",
+        "icon": "whatsapp",
+        "href": "https://wa.me/917217670118"
+      }
+    ],
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/917217670118"
+      },
+      "message": {
+        "href": "tel:7217670118"
+      }
+    }
+  }
+}

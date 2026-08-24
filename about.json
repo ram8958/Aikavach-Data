@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "About Our Training",
+    "subtitle": "Practical AI Cybersecurity Training for Modern Professionals",
+    "description": "At AIKavach, our mission is to help professionals develop practical skills to secure modern AI systems. We deliver instructor-led training that combines technical expertise with real-world experience, enabling participants to understand, assess, and protect AI-powered applications used in today's enterprises."
+  },
+  "overview": {
+    "title": "Who We Train",
+    "description": "Our programs are designed for security professionals, software engineers, cloud architects, AI developers, penetration testers, auditors, and enterprise teams seeking to strengthen their AI security capabilities."
+  },
+  "program": {
+    "title": "OSAI – Offensive Security AI Training",
+    "description": "Our flagship OSAI (Offensive Security AI) program focuses on securing Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG) applications, Model Context Protocol (MCP), and enterprise AI platforms through practical, instructor-led learning.",
+    "outcomes": [
+      "Analyze AI application architectures and identify security risks.",
+      "Perform AI security assessments using structured methodologies.",
+      "Understand AI attack techniques and their business impact.",
+      "Implement practical security controls for AI-powered applications.",
+      "Apply industry best practices to secure enterprise AI environments."
+    ]
+  },
+  "handsOnTraining": {
+    "title": "Hands-On Learning Experience",
+    "description": "Every training program includes guided laboratory exercises where participants build, configure, test, and secure enterprise AI environments using realistic attack and defense scenarios.",
+    "labs": [
+      "Build enterprise AI lab environments.",
+      "Configure LLMs, AI agents, RAG applications, and supporting infrastructure.",
+      "Perform controlled AI security assessments.",
+      "Execute realistic AI attack simulations in a safe lab environment.",
+      "Apply defensive techniques to strengthen AI systems."
+    ]
+  },
+  "delivery": {
+    "title": "Weekend Live Training",
+    "description": "Our instructor-led weekend sessions are designed specifically for working professionals, allowing participants to learn practical AI cybersecurity skills without interrupting their regular work schedule."
+  },
+  "audience": {
+    "title": "Who Should Attend",
+    "roles": [
+      "Cybersecurity Professionals",
+      "Penetration Testers & Red Teamers",
+      "Software Developers",
+      "Cloud Engineers",
+      "DevSecOps Engineers",
+      "Security Architects",
+      "Security Consultants",
+      "AI Developers",
+      "Enterprise Security Teams",
+      "Compliance & Risk Professionals"
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Why Choose AIKavach",
+    "features": [
+      "Instructor-led weekend live training.",
+      "Practical, lab-focused learning.",
+      "Enterprise AI security scenarios.",
+      "Guided AI lab configuration.",
+      "Real-world AI security assessments.",
+      "AI Red Team exercises.",
+      "LLM, RAG, MCP, and AI Agent security training.",
+      "Career-focused mentorship.",
+      "Continuous technical support."
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At AIKavach, we focus on developing practical AI cybersecurity skills that professionals can immediately apply within their organizations. Through structured training, realistic enterprise labs, and expert guidance, we prepare learners to confidently assess, secure, and defend modern AI systems."
+  }
+}

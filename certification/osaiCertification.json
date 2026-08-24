@@ -1,0 +1,357 @@
+{
+    "hero": {
+      "badge": "OSAI Certification",
+      "title": "OSAI+ Certification Guidelines",
+      "description": "Learn everything about the OSAI+ (Offensive Security AI) certification including eligibility, exam structure, domains, prerequisites, certification process, benefits and frequently asked questions.",
+      "lastUpdated": "June 2026"
+    },
+  
+    "navigation": [
+      {
+        "id": "introduction",
+        "title": "Introduction"
+      },
+      {
+        "id": "overview",
+        "title": "Certification Overview"
+      },
+      {
+        "id": "eligibility",
+        "title": "Who Should Take OSAI+"
+      },
+      {
+        "id": "examInformation",
+        "title": "Exam Information"
+      },
+      {
+        "id": "examDomains",
+        "title": "Exam Domains"
+      },
+      {
+        "id": "certificationProcess",
+        "title": "Certification Process"
+      },
+      {
+        "id": "prerequisites",
+        "title": "Prerequisites"
+      },
+      {
+        "id": "benefits",
+        "title": "Certification Benefits"
+      },
+      {
+        "id": "faq",
+        "title": "Frequently Asked Questions"
+      }
+    ],
+  
+    "introduction": {
+      "title": "Introduction",
+  
+      "paragraphs": [
+        "The Offensive Security AI (OSAI+) Certification is designed for professionals who want to validate their practical knowledge in Artificial Intelligence security, Large Language Models (LLMs), Prompt Injection, AI Red Teaming and Enterprise AI Security.",
+  
+        "The certification focuses on real-world offensive techniques against AI applications while also teaching mitigation strategies, secure deployment practices and defensive controls.",
+  
+        "Unlike traditional multiple-choice certifications, OSAI+ emphasizes hands-on learning and practical security assessments."
+      ]
+    },
+  
+    "overview": {
+      "title": "Certification Overview",
+  
+      "description": "OSAI+ validates a candidate's ability to assess, attack and secure modern AI systems used by organizations.",
+  
+      "cards": [
+        {
+          "title": "Certification Name",
+          "value": "OSAI+"
+        },
+        {
+          "title": "Certification Code",
+          "value": "AI-300"
+        },
+        {
+          "title": "Level",
+          "value": "Professional"
+        },
+        {
+          "title": "Exam Type",
+          "value": "Practical + MCQ"
+        },
+        {
+          "title": "Language",
+          "value": "English"
+        },
+        {
+          "title": "Delivery",
+          "value": "Online"
+        }
+      ]
+    },
+  
+    "eligibility": {
+      "title": "Who Should Take OSAI+ Certification?",
+  
+      "description": "The certification is intended for professionals interested in offensive AI security and secure AI implementation.",
+  
+      "cards": [
+        {
+          "title": "Cyber Security Professionals",
+          "description": "Expand into AI Security and Offensive AI Testing."
+        },
+        {
+          "title": "Penetration Testers",
+          "description": "Learn AI application penetration testing."
+        },
+        {
+          "title": "Red Team Members",
+          "description": "Perform adversarial AI assessments."
+        },
+        {
+          "title": "SOC Analysts",
+          "description": "Understand AI threats and defenses."
+        },
+        {
+          "title": "AI / ML Engineers",
+          "description": "Develop secure AI systems."
+        },
+        {
+          "title": "Cloud Security Engineers",
+          "description": "Secure enterprise AI deployments."
+        }
+      ]
+    },
+  
+    "examInformation":  {
+        "title": "OSAI+ Certification Exam Information",
+      
+        "description": "The OSAI+ examination evaluates a candidate's practical knowledge of offensive AI security, AI application testing, Prompt Injection, LLM Security and Enterprise AI Security.",
+      
+        "items": [
+          {
+            "title": "Exam Code",
+            "value": "AI-300"
+          },
+          {
+            "title": "Certification Name",
+            "value": "OSAI+ (Offensive Security AI)"
+          },
+          {
+            "title": "Exam Duration",
+            "value": "180 Minutes"
+          },
+          {
+            "title": "Exam Questions",
+            "value": "60 Questions"
+          },
+          {
+            "title": "Passing Score",
+            "value": "70%"
+          },
+          {
+            "title": "Exam Language",
+            "value": "English"
+          },
+          {
+            "title": "Exam Mode",
+            "value": "Online Proctored"
+          },
+          {
+            "title": "Certification Level",
+            "value": "Professional"
+          },
+          {
+            "title": "Certificate",
+            "value": "Digital Certificate & Badge"
+          },
+          {
+            "title": "Validity",
+            "value": "3 Years"
+          },
+          {
+            "title": "Retake",
+            "value": "Available as per certification policy"
+          },
+          {
+            "title": "Prerequisite",
+            "value": "No mandatory prerequisite"
+          }
+        ],
+      
+        "importantNotes": [
+          "Basic cyber security knowledge is recommended.",
+          "Understanding of networking fundamentals is helpful.",
+          "Basic Linux knowledge is recommended.",
+          "Hands-on AI security practice is strongly encouraged.",
+          "Stable internet connection is required for online examination."
+        ]
+      
+    },
+  
+    "examDomains": {
+        "title": "OSAI+ Exam Domains",
+      
+        "description": "The examination measures practical offensive AI security knowledge across multiple technical domains.",
+      
+        "domains": [
+          {
+            "title": "AI & LLM Fundamentals",
+            "weight": 10,
+            "description": "Artificial Intelligence concepts, Machine Learning basics and LLM architecture."
+          },
+          {
+            "title": "Prompt Injection",
+            "weight": 20,
+            "description": "Prompt Injection attacks, Prompt leaking, Prompt manipulation and Jailbreaking."
+          },
+          {
+            "title": "LLM Vulnerabilities",
+            "weight": 15,
+            "description": "Unsafe outputs, hallucinations, model abuse and LLM weaknesses."
+          },
+          {
+            "title": "RAG Security",
+            "weight": 15,
+            "description": "Vector database attacks, retrieval manipulation and embedding security."
+          },
+          {
+            "title": "AI Agent Security",
+            "weight": 10,
+            "description": "Autonomous AI Agents, tool misuse and agent exploitation."
+          },
+          {
+            "title": "OWASP Top 10 for LLM",
+            "weight": 10,
+            "description": "OWASP LLM Top 10 risks and mitigation."
+          },
+          {
+            "title": "AI Red Teaming",
+            "weight": 10,
+            "description": "Attack simulation, adversarial testing and reporting."
+          },
+          {
+            "title": "Enterprise AI Security",
+            "weight": 10,
+            "description": "Securing enterprise AI deployments and production AI environments."
+          }
+        ]
+      
+    },
+  
+    "certificationProcess":  {
+        "title": "Certification Process",
+      
+        "description": "Follow the complete journey from registration to becoming an OSAI+ Certified Professional.",
+      
+        "steps": [
+          {
+            "step": 1,
+            "title": "Register",
+            "description": "Complete your registration with the official training partner."
+          },
+          {
+            "step": 2,
+            "title": "Training",
+            "description": "Attend instructor-led or self-paced OSAI+ training."
+          },
+          {
+            "step": 3,
+            "title": "Practice Labs",
+            "description": "Complete all practical AI Security lab exercises."
+          },
+          {
+            "step": 4,
+            "title": "Schedule Exam",
+            "description": "Book your certification examination."
+          },
+          {
+            "step": 5,
+            "title": "Pass Exam",
+            "description": "Successfully clear the practical examination."
+          },
+          {
+            "step": 6,
+            "title": "Get Certified",
+            "description": "Receive your certificate and digital badge."
+          }
+        ]
+      
+    },
+  
+    "prerequisites": {
+        "id": "prerequisites",
+        "title": "Prerequisites",
+        "description": "Although there are no mandatory prerequisites, the following knowledge is recommended.",
+      
+        "items": [
+          "Basic Cyber Security Knowledge",
+          "Networking Fundamentals",
+          "Linux Basics",
+          "Python Fundamentals",
+          "Web Application Security",
+          "Understanding of AI / LLM Concepts",
+          "Interest in Offensive Security"
+        ]
+      },
+  
+    "benefits": {
+        "id": "benefits",
+    "title": "Benefits of OSAI+ Certification",
+    "description": "The OSAI+ certification validates practical offensive AI security skills required by modern organizations.",
+  
+    "cards": [
+      {
+        "title": "Industry Recognition",
+        "description": "Validate your offensive AI security expertise."
+      },
+      {
+        "title": "Hands-on Skills",
+        "description": "Gain practical experience with real-world AI attack scenarios."
+      },
+      {
+        "title": "Career Growth",
+        "description": "Improve opportunities for AI Security and Red Team positions."
+      },
+      {
+        "title": "Enterprise Readiness",
+        "description": "Secure enterprise AI deployments with confidence."
+      },
+      {
+        "title": "Latest AI Attacks",
+        "description": "Master Prompt Injection, Jailbreaks, RAG Security and AI Agent Security."
+      },
+      {
+        "title": "Professional Credibility",
+        "description": "Demonstrate verified AI security knowledge to employers."
+      }
+    ]
+},
+  
+    "faq": { "id": "faq",
+    "title": "Frequently Asked Questions",
+    "description": "Answers to the most common questions about the OSAI+ certification.",
+  
+    "questions": [
+      {
+        "question": "Is OSAI+ a practical certification?",
+        "answer": "Yes. The certification is heavily focused on practical offensive AI security exercises."
+      },
+      {
+        "question": "Do I need prior AI experience?",
+        "answer": "No. Basic cybersecurity knowledge is enough, although familiarity with AI concepts is helpful."
+      },
+      {
+        "question": "Is the certification valid for life?",
+        "answer": "Yes. OSAI+ certification currently has lifetime validity."
+      },
+      {
+        "question": "Can beginners apply?",
+        "answer": "Yes. Anyone with basic networking and cybersecurity knowledge can join."
+      },
+      {
+        "question": "Will I get lab access?",
+        "answer": "Yes. Students receive guided hands-on lab access throughout the training."
+      }
+    ]}
+  }

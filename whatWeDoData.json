@@ -1,0 +1,49 @@
+{
+    "heading": {
+      "black": "What",
+      "orange": "We Do"
+    },
+  
+    "subHeading": "Train cybersecurity professionals to assess, attack, and secure enterprise AI systems using practical labs and real-world red team exercises.",
+  
+    "viewAll": {
+      "title": "View All",
+      "href": "/courses"
+    },
+  
+    "cards": [
+        {
+          "id": 1,
+          "title": "Weekend Live AI Security Training",
+          "description": "Instructor-led weekend sessions designed for working professionals. Learn AI security, LLM vulnerabilities, prompt injection, AI agents, and enterprise AI security through practical demonstrations and guided exercises.",
+          "image": "/whatwedo1.png",
+          "backgroundColor": "#22D3EE",
+          "explore": {
+            "title": "Learn More",
+            "href": "/courses"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Build Your Own Enterprise AI Lab",
+          "description": "Configure a complete enterprise AI attack environment from scratch. Deploy LLMs, RAG applications, AI agents, MCP servers, vector databases, and security tools in your own hands-on lab.",
+          "image": "/whatwedo.png",
+          "backgroundColor": "#22D3EE",
+          "explore": {
+            "title": "View Labs",
+            "href": "/labs"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Real-World AI Red Teaming",
+          "description": "Practice AI hands-on red teaming using realistic attack scenarios including prompt injection, jailbreaks, RAG exploitation, indirect prompt attacks, model abuse, and AI agent security assessments.",
+          "image": "/whatwedo2.png",
+          "backgroundColor": "#22D3EE",
+          "explore": {
+            "title": "Explore Course",
+            "href": "/courses"
+          }
+        }
+      ]
+    }

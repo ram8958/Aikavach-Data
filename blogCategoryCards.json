@@ -1,0 +1,26 @@
+[
+    {
+      "id": "news",
+      "title": "News",
+      "description": "Latest cybersecurity news and industry updates.",
+      "count": 12
+    },
+    {
+      "id": "ai-security",
+      "title": "AI Security",
+      "description": "AI attacks, LLM security and GenAI protection.",
+      "count": 8
+    },
+    {
+      "id": "cloud-security",
+      "title": "Cloud Security",
+      "description": "Cloud security, IAM and Zero Trust strategies.",
+      "count": 6
+    },
+    {
+      "id": "threat-intelligence",
+      "title": "Threat Intelligence",
+      "description": "Threat hunting, malware analysis and cyber intelligence.",
+      "count": 9
+    }
+  ]

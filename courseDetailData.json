@@ -1,0 +1,349 @@
+{
+  "courses": [
+    {
+      "slug": "ai-300",
+      "image": "/promptengineering.png",
+      "category": "OSAI Handson Labs",
+      "duration": "120+ Hours",
+      "enrolled": "1000+ Students",
+      "title": "OSAI+ (AI-300) Training & Certification | Offensive Security AI Security Certification Training.",
+      "description": "Our approach centers on hands-on training, certification preparation, and building the skills that make you truly industry-ready",
+      "price": {
+        "title": "Course Price",
+        "amount": "₹12,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+      "guide": {
+        "badge": "COURSE GUIDE",
+        "title": "AI Security Course Guide",
+        "description": "Get complete information about the course, training, certification and learning path.",
+        "button": {
+          "title": "Get Course Guide",
+          "href": "#"
+        }
+      },
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "Hands-on Practice"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Lab Setup & Configuration"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "AI Security Labs"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Prompt Injection & Jailbreak Labs"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "RAG & AI Agent Security"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Enterprise AI Red Team Exercises"
+        }
+      ],
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    },
+    {
+      "slug": "ceh-v13",
+      "image": "/ceh.png",
+      "category": "Ethical Hacking Training",
+      "duration": "80+ Hours",
+      "enrolled": "2500+ Students",
+      "title": "Certified Ethical Hacker (CEH v13) Training & Certification | Hands-on Ethical Hacking Course",
+      "description": "Master ethical hacking with practical labs, real-world attack simulations, vulnerability assessment, and penetration testing. Prepare for the EC-Council CEH certification through hands-on learning.",
+      "price": {
+        "title": "Course Price",
+        "amount": "₹18,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+      "guide": {
+        "badge": "COURSE GUIDE",
+        "title": "CEH v13 Course Guide",
+        "description": "Get complete information about the CEH v13 course, practical training, certification preparation and learning path.",
+        "button": {
+          "title": "Get Course Guide",
+          "href": "#"
+        }
+      },
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "CEH v13 Complete Syllabus"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Hands-on Ethical Hacking Labs"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "Kali Linux Lab Setup"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Network & Web Application Pentesting"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "Capture The Flag (CTF) Challenges"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "CEH Certification Preparation"
+        }
+      ],
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    },
+    {
+      "slug": "security-devops",
+      "image": "/devsecops.png",
+      "category": "DevSecOps",
+      "duration": "90+ Hours",
+      "enrolled": "500+ Students",
+      "title": "Security DevOps | DevSecOps Engineering Training & Certification",
+      "description": "Master DevSecOps by integrating security into every phase of the software development lifecycle. Learn CI/CD security, container security, Kubernetes security, cloud security, Infrastructure as Code security, and automated security testing through real-world hands-on labs.",
+      "price": {
+        "title": "Course Price",
+        "amount": "₹18,000",
+        "original": "",
+        "discount": "",
+        "note": "Inclusive of all taxes"
+      },
+      "button": {
+        "title": "Contact With Us",
+        "href": "tel:7217670118"
+      },
+      "guide": {
+        "badge": "COURSE GUIDE",
+        "title": "DevSecOps Course Guide",
+        "description": "Get complete information about DevSecOps training, practical labs, security tools, certification preparation and the learning path.",
+        "button": {
+          "title": "Get Course Guide",
+          "href": "#"
+        }
+      },
+      "includes": [
+        {
+          "id": 1,
+          "icon": "check",
+          "text": "DevSecOps Fundamentals"
+        },
+        {
+          "id": 2,
+          "icon": "check",
+          "text": "Secure CI/CD Pipeline"
+        },
+        {
+          "id": 3,
+          "icon": "check",
+          "text": "Git & GitHub Security"
+        },
+        {
+          "id": 4,
+          "icon": "check",
+          "text": "Jenkins Security & Pipeline Hardening"
+        },
+        {
+          "id": 5,
+          "icon": "check",
+          "text": "Docker & Container Security"
+        },
+        {
+          "id": 6,
+          "icon": "check",
+          "text": "Kubernetes Security"
+        },
+        {
+          "id": 7,
+          "icon": "check",
+          "text": "Infrastructure as Code (Terraform) Security"
+        },
+        {
+          "id": 8,
+          "icon": "check",
+          "text": "AWS & Cloud Security"
+        },
+        {
+          "id": 9,
+          "icon": "check",
+          "text": "Static & Dynamic Security Testing (SAST/DAST)"
+        },
+        {
+          "id": 10,
+          "icon": "check",
+          "text": "Software Composition Analysis (SCA)"
+        },
+        {
+          "id": 11,
+          "icon": "check",
+          "text": "Secrets Management (Vault)"
+        },
+        {
+          "id": 12,
+          "icon": "check",
+          "text": "OWASP Top 10 & API Security"
+        },
+        {
+          "id": 13,
+          "icon": "check",
+          "text": "Container Image Scanning"
+        },
+        {
+          "id": 14,
+          "icon": "check",
+          "text": "Kubernetes Admission Controllers & Policies"
+        },
+        {
+          "id": 15,
+          "icon": "check",
+          "text": "Supply Chain Security"
+        },
+        {
+          "id": 16,
+          "icon": "check",
+          "text": "Compliance as Code"
+        },
+        {
+          "id": 17,
+          "icon": "check",
+          "text": "Monitoring, Logging & Incident Response"
+        },
+        {
+          "id": 18,
+          "icon": "check",
+          "text": "Real-World DevSecOps Projects"
+        }
+      ],
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "icon": "facebook",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "href": "#"
+        },
+        {
+          "id": 3,
+          "name": "Twitter",
+          "icon": "twitter",
+          "href": "#"
+        },
+        {
+          "id": 4,
+          "name": "WhatsApp",
+          "icon": "whatsapp",
+          "href": "https://wa.me/917217670118"
+        }
+      ],
+      "floatingButtons": {
+        "whatsapp": {
+          "href": "https://wa.me/917217670118"
+        },
+        "message": {
+          "href": "tel:7217670118"
+        }
+      }
+    }
+  ]
+}

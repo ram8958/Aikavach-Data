@@ -1,0 +1,12 @@
+{
+    "background": "bg-gradient-to-r from-[#081A33] via-[#0B2447] to-[#081A33]",
+    "textColor": "text-cyan-300",
+  
+    "items": [
+      {
+        "id": 1,
+        "text": "🚀 Upcoming AI Security Webinar • Click Here to Register",
+        "href": "/webinars"
+      }
+    ]
+  }

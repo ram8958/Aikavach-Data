@@ -1,0 +1,454 @@
+{
+    "title": "Cyber Security Roadmap",
+    "subtitle": "Complete Cyber Security learning roadmap",
+    "sections": [
+      {
+        "title": "Fundamental IT Skills",
+        "items": [
+          "Computer Hardware Components",
+          "Connection Types and their function",
+          "OS-Independent Troubleshooting",
+          "Understand Basics of Popular Suites",
+          "Basics of Computer Networking",
+          "NFC",
+          "Bluetooth",
+          "WiFi",
+          "Infrared",
+          "MS Office Suite",
+          "iCloud",
+          "Google Suite",
+          "Windows",
+          "Linux",
+          "MacOS"
+        ]
+      },
+      {
+        "title": "Operating Systems",
+        "items": [
+          "Different Versions and Differences",
+          "Navigating using GUI and CLI",
+          "Understand Permissions",
+          "Installing Software and Applications",
+          "Performing CRUD on Files",
+          "Troubleshooting",
+          "Common Commands"
+        ]
+      },
+      {
+        "title": "Networking Knowledge",
+        "items": [
+          "Understand the OSI Model",
+          "Common Protocols and their Uses",
+          "Common Ports and their Uses",
+          "SSL and TLS Basics",
+          "Basics of NAS and SAN",
+          "DHCP",
+          "DNS",
+          "NTP",
+          "IPAM",
+          "Star",
+          "Ring",
+          "Mesh",
+          "Bus",
+          "MAN",
+          "LAN",
+          "WAN",
+          "WLAN",
+          "Router",
+          "Switch",
+          "VPN",
+          "SSH",
+          "RDP",
+          "FTP",
+          "SFTP",
+          "HTTP / HTTPS",
+          "SSL / TLS"
+        ]
+      },
+      {
+        "title": "IP Terminology",
+        "items": [
+          "Basics of Subnetting",
+          "Public vs Private IP Addresses",
+          "localhost",
+          "loopback",
+          "CIDR",
+          "subnet mask",
+          "default gateway",
+          "VLAN",
+          "DMZ",
+          "ARP",
+          "VM",
+          "DHCP",
+          "DNS",
+          "NAT",
+          "IP"
+        ]
+      },
+      {
+        "title": "Troubleshooting Tools",
+        "items": [
+          "ipconfig",
+          "ping",
+          "dig",
+          "netstat",
+          "route",
+          "nmap",
+          "tcpdump",
+          "arp",
+          "tracert",
+          "nslookup",
+          "iptables"
+        ]
+      },
+      {
+        "title": "Virtualization",
+        "items": [
+          "VMware",
+          "VirtualBox",
+          "ESXi",
+          "Proxmox",
+          "Hypervisor",
+          "GuestOS",
+          "HostOS",
+          "VM",
+          "Basics of Virtualization"
+        ]
+      },
+      {
+        "title": "Authentication Methodologies",
+        "items": [
+          "Kerberos",
+          "RADIUS",
+          "LDAP",
+          "SSO",
+          "Certificates",
+          "Local Authentication"
+        ]
+      },
+      {
+        "title": "Security Skills and Knowledge",
+        "items": [
+          "Understand Common Hacking Tools",
+          "Understand Common Exploit Frameworks",
+          "Understand Concept of Defense in Depth",
+          "Understand Concept of Runbooks",
+          "Understand Basics of Forensics",
+          "Basics and Concepts of Threat Hunting",
+          "Basics of Vulnerability Management",
+          "Basics of Reverse Engineering",
+          "Penetration Testing Rules of Engagement",
+          "Perimeter vs DMZ vs Segmentation",
+          "Core Concepts of Zero Trust",
+          "Roles of Compliance and Auditors",
+          "Understand the Definition of Risk",
+          "Understand Backups and Resiliency",
+          "Cyber Kill Chain",
+          "MFA & 2FA",
+          "Honeypots",
+          "Operating System Hardening",
+          "Understand Concept of Isolation",
+          "Basics of IDS and IPS",
+          "Authentication vs Authorization",
+          "Blue / Red / Purple Teams",
+          "False Negative / False Positive",
+          "True Negative / True Positive",
+          "Basics of Threat Intel, OSINT",
+          "Understand Handshakes",
+          "Understand CIA Triad",
+          "Privilege Escalation",
+          "Web Based Attacks and OWASP10",
+          "Learn how Malware works and Types"
+        ]
+      },
+      {
+        "title": "Tools for Incident Response and Discovery",
+        "items": [
+          "dig",
+          "nmap",
+          "ping",
+          "arp",
+          "cat",
+          "dd",
+          "tail",
+          "hping",
+          "head",
+          "grep",
+          "nslookup",
+          "tracert",
+          "winhex",
+          "autopsy",
+          "ipconfig",
+          "curl",
+          "wireshark",
+          "memdump",
+          "FTK Imager"
+        ]
+      },
+      {
+        "title": "Basics of Cryptography",
+        "items": [
+          "Salting",
+          "Hashing",
+          "Key Exchange",
+          "Private vs Public Keys",
+          "PKI",
+          "Obfuscation"
+        ]
+      },
+      {
+        "title": "Understand Frameworks",
+        "items": [
+          "Diamond Model",
+          "Kill Chain",
+          "ATT&CK"
+        ]
+      },
+      {
+        "title": "Common Distros for Hacking",
+        "items": [
+          "ParrotOS",
+          "Kali Linux"
+        ]
+      },
+      {
+        "title": "Security Monitoring",
+        "items": [
+          "SIEM",
+          "SOAR"
+        ]
+      },
+      {
+        "title": "Secure vs Unsecure Protocols",
+        "items": [
+          "FTP vs SFTP",
+          "SSL vs TLS",
+          "IPSEC",
+          "DNSSEC",
+          "LDAPS",
+          "SRTP",
+          "S/MIME"
+        ]
+      },
+      {
+        "title": "Hardening Concepts",
+        "items": [
+          "MAC-based",
+          "NAC-based",
+          "Port Blocking",
+          "Group Policy",
+          "Sinkholes",
+          "ACLs",
+          "Patching",
+          "Jump Server",
+          "Endpoint Security"
+        ]
+      },
+      {
+        "title": "Security Technologies",
+        "items": [
+          "Antivirus",
+          "Antimalware",
+          "EDR",
+          "DLP",
+          "Firewall & Nextgen Firewall",
+          "HIPS",
+          "NIDS",
+          "NIPS",
+          "Host Based Firewall",
+          "Sandboxing",
+          "EAP vs PEAP",
+          "WPS",
+          "ACL",
+          "WPA vs WPA2 vs WPA3 vs WEP"
+        ]
+      },
+      {
+        "title": "Incident Response Process",
+        "items": [
+          "Preparation",
+          "Identification",
+          "Containment",
+          "Eradication",
+          "Recovery",
+          "Lessons Learned"
+        ]
+      },
+      {
+        "title": "Threat Classification",
+        "items": [
+          "Zero Day",
+          "Known vs Unknown",
+          "APT"
+        ]
+      },
+      {
+        "title": "Attack Types and Differences",
+        "items": [
+          "Phishing",
+          "Whishing",
+          "Whaling",
+          "Smishing",
+          "Spam vs Spim",
+          "Shoulder Surfing",
+          "Tailgating",
+          "Dumpster Diving",
+          "Zero day",
+          "Social Engineering",
+          "Reconnaissance",
+          "Impersonation",
+          "Watering Hole Attack",
+          "Drive by Attack",
+          "Typo Squatting",
+          "Brute Force vs Password Spray"
+        ]
+      },
+      {
+        "title": "Common Attacks",
+        "items": [
+          "DoS vs DDoS",
+          "MITM",
+          "CSRF",
+          "Spoofing",
+          "SQL Injection",
+          "XSS",
+          "Evil Twin",
+          "VLAN Hopping",
+          "DNS Poisoning",
+          "Deauth Attack",
+          "Replay Attack",
+          "Rogue Access Point",
+          "Buffer Overflow",
+          "Memory Leak",
+          "Pass the Hash",
+          "Directory Traversal"
+        ]
+      },
+      {
+        "title": "Common Tools",
+        "items": [
+          "VirusTotal",
+          "urlscan",
+          "any.run",
+          "Joe Sandbox",
+          "urlvoid",
+          "WHOIS"
+        ]
+      },
+      {
+        "title": "Common Standards",
+        "items": [
+          "ISO",
+          "RMF",
+          "NIST",
+          "CIS",
+          "CSF"
+        ]
+      },
+      {
+        "title": "Logs and Monitoring",
+        "items": [
+          "Event Logs",
+          "syslogs",
+          "netflow",
+          "Packet Captures",
+          "Firewall Logs"
+        ]
+      },
+      {
+        "title": "Understand Audience",
+        "items": [
+          "Stakeholders",
+          "HR",
+          "Legal",
+          "Compliance",
+          "Management"
+        ]
+      },
+      {
+        "title": "Cloud Skills and Knowledge",
+        "items": [
+          "Understand the Concept of Security in the Cloud",
+          "Understand the differences between cloud and on-premises",
+          "Understand the concept of Infrastructure as Code",
+          "Understand the Concept of Serverless",
+          "Understand the basics and general flow of deploying"
+        ]
+      },
+      {
+        "title": "Understand Cloud Services",
+        "items": [
+          "SaaS",
+          "PaaS",
+          "IaaS"
+        ]
+      },
+      {
+        "title": "Cloud Models",
+        "items": [
+          "Private",
+          "Public",
+          "Hybrid"
+        ]
+      },
+      {
+        "title": "Cloud Environments",
+        "items": [
+          "AWS",
+          "GCP",
+          "Azure"
+        ]
+      },
+      {
+        "title": "Common Cloud Storage",
+        "items": [
+          "S3",
+          "Dropbox",
+          "iCloud",
+          "Box",
+          "OneDrive",
+          "Google Drive"
+        ]
+      },
+      {
+        "title": "Programming Skills",
+        "items": [
+          "Python",
+          "Go",
+          "JavaScript",
+          "C++",
+          "Bash"
+        ]
+      },
+      {
+        "title": "Certifications",
+        "items": [
+          "CompTIA A+",
+          "CompTIA Linux+",
+          "CompTIA Network+",
+          "CCNA",
+          "CompTIA Security+",
+          "CEH",
+          "CISA",
+          "CISM",
+          "GSEC",
+          "GPEN",
+          "GWAPT",
+          "GIAC",
+          "OSCP",
+          "CREST",
+          "CISSP"
+        ]
+      },
+      {
+        "title": "CTFs (Capture the Flag)",
+        "items": [
+          "HackTheBox",
+          "TryHackMe",
+          "VulnHub",
+          "picoCTF",
+          "pwn.college"
+        ]
+      }
+    ]
+  }

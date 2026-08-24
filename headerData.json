@@ -1,0 +1,30 @@
+{
+  "navigation": [
+    {
+      "title": "Home",
+      "href": "/"
+    },
+   
+    {
+      "title": "Courses",
+      "href": "/courses"
+    },
+    {
+      "title": "Blog",
+      "href": "/blog"
+    },
+
+    {
+      "title": "About",
+      "href": "/about"
+    }
+  ],
+  "contact": {
+    "title": "Ask Us",
+    "href": "tel:+919999999999"
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "href": "/contact"
+  }
+}

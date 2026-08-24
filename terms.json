@@ -1,0 +1,94 @@
+{
+  "title": "Terms & Conditions",
+  "effectiveDate": "19 July 2026",
+  "lastUpdated": "19 July 2026, 07:55 PM IST",
+  "intro": "Welcome to Aikavach.in. By accessing or using our website, courses, workshops, and training services, you agree to comply with these Terms & Conditions.",
+
+  "highlight": {
+    "title": "Important Notice",
+    "message": "Aikavach.in provides training only. We do NOT issue any certificates, diplomas, degrees, or professional credentials. Any third-party certification mentioned in our training must be obtained directly from the respective certification provider."
+  },
+
+  "sections": [
+    {
+      "id": 1,
+      "title": "Acceptance of Terms",
+      "content": "By registering for any course or using our platform, you agree to comply with these Terms & Conditions and our Privacy Policy."
+    },
+    {
+      "id": 2,
+      "title": "Training Services",
+      "items": [
+        "Professional IT Training",
+        "Cyber Security Training",
+        "Artificial Intelligence Training",
+        "Cloud & DevOps Training",
+        "Live Instructor-led Sessions",
+        "Self-paced Learning",
+        "Hands-on Labs and Practice Exercises"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "No Certification Policy",
+      "content": "Aikavach.in is a training platform only. We do not issue Government Certificates, University Certificates, Degree Certificates, Diploma Certificates, Completion Certificates, or Professional Certification Credentials. Learners seeking industry certifications must register and pass the official examinations conducted by the respective certification providers."
+    },
+    {
+      "id": 4,
+      "title": "Course Content",
+      "content": "Course materials are provided for educational purposes only. Content may be updated or modified at any time to reflect the latest industry standards."
+    },
+    {
+      "id": 5,
+      "title": "User Responsibilities",
+      "items": [
+        "Provide accurate registration information.",
+        "Maintain account confidentiality.",
+        "Use course materials only for personal learning.",
+        "Do not copy, redistribute, record, or resell course content without written permission."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Intellectual Property",
+      "content": "All training materials, videos, documents, source code, graphics, and branding remain the intellectual property of Aikavach.in."
+    },
+    {
+      "id": 7,
+      "title": "Payments",
+      "content": "Course fees must be paid using approved payment methods. Unless otherwise stated, all fees are non-transferable and non-refundable."
+    },
+    {
+      "id": 8,
+      "title": "Refund Policy",
+      "content": "Refund eligibility is governed by the Refund Policy available on Aikavach.in."
+    },
+    {
+      "id": 9,
+      "title": "Training Schedule",
+      "content": "Training schedules may change due to instructor availability, holidays, maintenance, or unforeseen circumstances."
+    },
+    {
+      "id": 10,
+      "title": "Limitation of Liability",
+      "content": "Aikavach.in does not guarantee employment, job placement, salary outcomes, examination success, or third-party certification results."
+    },
+    {
+      "id": 11,
+      "title": "Privacy",
+      "content": "Personal information is collected and processed according to our Privacy Policy."
+    },
+    {
+      "id": 12,
+      "title": "Changes to Terms",
+      "content": "These Terms & Conditions may be updated at any time. The Last Updated date indicates the latest revision."
+    }
+  ],
+
+  "disclaimer": {
+    "title": "Disclaimer",
+    "content": "Aikavach.in is an independent training platform providing education, mentoring, and skill development only. We do not issue any certificates or accreditations. Any industry certification belongs solely to its respective organization."
+  },
+
+  "footer": "© 2026 Aikavach.in. All Rights Reserved."
+}

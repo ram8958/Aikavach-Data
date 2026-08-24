@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "slug": "unified-controls-framework",
+    "category": "Risk Management",
+    "badge": "Compliance",
+    "title": "Unified Controls Framework: Why 'Build Once, Comply Many' Is Replacing Framework-by-Framework Compliance",
+    "description": "Learn how Unified Controls Framework (UCF) helps organizations simplify compliance across multiple standards.",
+    "image": "/blog/blog1.jpg",
+    "date": "20 Jul 2026",
+    "readTime": "",
+    "views": "",
+    "author": {
+      "name": "AIKavach Research Team",
+      "image": "/authors/author1.jpg"
+    }
+  },
+
+  {
+    "id": 2,
+    "slug": "zero-trust-security",
+    "category": "AI Security",
+    "badge": "Security",
+    "title": "Zero Trust Security for Modern Enterprises",
+    "description": "Understand why Zero Trust has become the foundation of modern cyber defense.",
+    "image": "/blog/blog2.jpg",
+    "date": "18 Jul 2026",
+    "readTime": "",
+    "views": "",
+    "author": {
+      "name": "AIKavach Research Team",
+      "image": "/authors/author1.jpg"
+    }
+  },
+
+  {
+    "id": 3,
+    "slug": "cloud-security",
+    "category": "Cloud",
+    "badge": "Cloud",
+    "title": "Cloud Security Best Practices in 2026",
+    "description": "Protect cloud workloads using modern security controls and governance.",
+    "image": "/blog/blog3.jpg",
+    "date": "15 Jul 2026",
+    "readTime": "",
+    "views": "",
+    "author": {
+      "name": "AIKavach Research Team",
+      "image": "/authors/author1.jpg"
+    }
+  },
+
+  {
+    "id": 4,
+    "slug": "prompt engineering ",
+    "category": "AI",
+    "badge": "Prompt Engineering",
+    "title": "CRAFT Prompt Design Framework: A Professional Methodology for Writing Better AI Prompts",
+    "description": "Learn how the CRAFT Prompt Design Framework helps professionals write structured AI prompts using Context, Role, Action and Format.",
+    "image": "/blog/craft/craft-light.webp",
+    "date": "01 Aug 2026",
+    "readTime": "18 min",
+    "views": "",
+    "author": {
+      "name": "AIKavach Team",
+      "image": "/author.png"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "craft-prompt-design-framework",
+    "category": "AI",
+    "badge": "Prompt Engineering",
+    "title": "CRAFT Prompt Design Framework: A Professional Methodology for Writing Better AI Prompts",
+    "description": "Learn how the CRAFT Prompt Design Framework helps professionals write structured AI prompts using Context, Role, Action and Format.",
+    "image": "/blog/craft/craft-light.webp",
+    "date": "01 Aug 2026",
+    "readTime": "18 min",
+    "views": "",
+    "author": {
+      "name": "AIKavach Team",
+      "image": "/author.png"
+    }
+  }
+
+]

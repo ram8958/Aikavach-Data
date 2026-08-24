@@ -1,0 +1,11 @@
+{
+    "autoPlay": true,
+    "interval": 5000,
+    "slides": [
+      {
+        "id": 1,
+        "type": "hero"
+      }
+   
+    ]
+  }
