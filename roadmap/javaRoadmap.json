@@ -1,0 +1,338 @@
+{
+  "title": "Java Developer Roadmap",
+  "groups": [
+    {
+      "title": "Java Fundamentals",
+      "items": [
+        {
+          "name": "Java Introduction",
+          "status": "recommended"
+        },
+        {
+          "name": "JDK, JRE & JVM",
+          "status": "recommended"
+        },
+        {
+          "name": "Variables & Data Types",
+          "status": "recommended"
+        },
+        {
+          "name": "Operators",
+          "status": "recommended"
+        },
+        {
+          "name": "Input & Output",
+          "status": "recommended"
+        },
+        {
+          "name": "Control Statements",
+          "status": "recommended"
+        },
+        {
+          "name": "Loops",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Object Oriented Programming",
+      "items": [
+        {
+          "name": "Classes & Objects",
+          "status": "recommended"
+        },
+        {
+          "name": "Constructors",
+          "status": "recommended"
+        },
+        {
+          "name": "Inheritance",
+          "status": "recommended"
+        },
+        {
+          "name": "Polymorphism",
+          "status": "recommended"
+        },
+        {
+          "name": "Encapsulation",
+          "status": "recommended"
+        },
+        {
+          "name": "Abstraction",
+          "status": "recommended"
+        },
+        {
+          "name": "Interfaces",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Core Java",
+      "items": [
+        {
+          "name": "Strings",
+          "status": "recommended"
+        },
+        {
+          "name": "Arrays",
+          "status": "recommended"
+        },
+        {
+          "name": "Methods",
+          "status": "recommended"
+        },
+        {
+          "name": "Packages",
+          "status": "recommended"
+        },
+        {
+          "name": "Access Modifiers",
+          "status": "recommended"
+        },
+        {
+          "name": "Exception Handling",
+          "status": "recommended"
+        },
+        {
+          "name": "File Handling",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Collections Framework",
+      "items": [
+        {
+          "name": "Collection Framework",
+          "status": "recommended"
+        },
+        {
+          "name": "List",
+          "status": "recommended"
+        },
+        {
+          "name": "ArrayList",
+          "status": "recommended"
+        },
+        {
+          "name": "LinkedList",
+          "status": "alternative"
+        },
+        {
+          "name": "Set",
+          "status": "recommended"
+        },
+        {
+          "name": "HashSet",
+          "status": "recommended"
+        },
+        {
+          "name": "Map",
+          "status": "recommended"
+        },
+        {
+          "name": "HashMap",
+          "status": "recommended"
+        },
+        {
+          "name": "Queue",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Java",
+      "items": [
+        {
+          "name": "Generics",
+          "status": "recommended"
+        },
+        {
+          "name": "Lambda Expressions",
+          "status": "recommended"
+        },
+        {
+          "name": "Functional Interfaces",
+          "status": "recommended"
+        },
+        {
+          "name": "Stream API",
+          "status": "recommended"
+        },
+        {
+          "name": "Optional",
+          "status": "recommended"
+        },
+        {
+          "name": "Multithreading",
+          "status": "recommended"
+        },
+        {
+          "name": "Concurrency",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Database & JDBC",
+      "items": [
+        {
+          "name": "SQL Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "MySQL",
+          "status": "recommended"
+        },
+        {
+          "name": "JDBC",
+          "status": "recommended"
+        },
+        {
+          "name": "Database Connectivity",
+          "status": "recommended"
+        },
+        {
+          "name": "CRUD Operations",
+          "status": "recommended"
+        },
+        {
+          "name": "PreparedStatement",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Spring & Spring Boot",
+      "items": [
+        {
+          "name": "Spring Framework",
+          "status": "recommended"
+        },
+        {
+          "name": "Dependency Injection",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Boot",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring MVC",
+          "status": "recommended"
+        },
+        {
+          "name": "REST APIs",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Data JPA",
+          "status": "recommended"
+        },
+        {
+          "name": "Hibernate",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Security",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Microservices",
+      "items": [
+        {
+          "name": "Microservices Architecture",
+          "status": "recommended"
+        },
+        {
+          "name": "RESTful Services",
+          "status": "recommended"
+        },
+        {
+          "name": "API Gateway",
+          "status": "recommended"
+        },
+        {
+          "name": "Service Discovery",
+          "status": "recommended"
+        },
+        {
+          "name": "Spring Cloud",
+          "status": "recommended"
+        },
+        {
+          "name": "Eureka",
+          "status": "alternative"
+        },
+        {
+          "name": "OpenFeign",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Testing",
+      "items": [
+        {
+          "name": "Unit Testing",
+          "status": "recommended"
+        },
+        {
+          "name": "JUnit",
+          "status": "recommended"
+        },
+        {
+          "name": "Mockito",
+          "status": "recommended"
+        },
+        {
+          "name": "Integration Testing",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Deployment",
+      "items": [
+        {
+          "name": "Git",
+          "status": "recommended"
+        },
+        {
+          "name": "GitHub",
+          "status": "recommended"
+        },
+        {
+          "name": "Maven",
+          "status": "recommended"
+        },
+        {
+          "name": "Gradle",
+          "status": "alternative"
+        },
+        {
+          "name": "Docker",
+          "status": "recommended"
+        },
+        {
+          "name": "CI/CD",
+          "status": "recommended"
+        },
+        {
+          "name": "AWS Basics",
+          "status": "recommended"
+        }
+      ]
+    }
+  ],
+  "relatedRoadmaps": [
+    "Python Developer Roadmap",
+    "Spring Boot Roadmap",
+    "Backend Developer Roadmap",
+    "Data Engineer Roadmap",
+    "DevOps Roadmap"
+  ]
+}
