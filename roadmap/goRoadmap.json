@@ -1,0 +1,342 @@
+{
+  "title": "Go Developer Roadmap",
+  "groups": [
+    {
+      "title": "GO FUNDAMENTALS",
+      "items": [
+        {
+          "name": "Go Installation & Setup",
+          "status": "recommended"
+        },
+        {
+          "name": "Go Syntax",
+          "status": "recommended"
+        },
+        {
+          "name": "Variables & Constants",
+          "status": "recommended"
+        },
+        {
+          "name": "Data Types",
+          "status": "recommended"
+        },
+        {
+          "name": "Operators",
+          "status": "optional"
+        },
+        {
+          "name": "Input & Output",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "CONTROL FLOW",
+      "items": [
+        {
+          "name": "if / else",
+          "status": "recommended"
+        },
+        {
+          "name": "switch",
+          "status": "recommended"
+        },
+        {
+          "name": "for Loop",
+          "status": "recommended"
+        },
+        {
+          "name": "Range",
+          "status": "recommended"
+        },
+        {
+          "name": "Break & Continue",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "FUNCTIONS",
+      "items": [
+        {
+          "name": "Functions",
+          "status": "recommended"
+        },
+        {
+          "name": "Multiple Return Values",
+          "status": "recommended"
+        },
+        {
+          "name": "Variadic Functions",
+          "status": "optional"
+        },
+        {
+          "name": "Anonymous Functions",
+          "status": "optional"
+        },
+        {
+          "name": "Closures",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "DATA STRUCTURES",
+      "items": [
+        {
+          "name": "Arrays",
+          "status": "recommended"
+        },
+        {
+          "name": "Slices",
+          "status": "recommended"
+        },
+        {
+          "name": "Maps",
+          "status": "recommended"
+        },
+        {
+          "name": "Structs",
+          "status": "recommended"
+        },
+        {
+          "name": "Pointers",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "OBJECT & ABSTRACTION",
+      "items": [
+        {
+          "name": "Methods",
+          "status": "recommended"
+        },
+        {
+          "name": "Interfaces",
+          "status": "recommended"
+        },
+        {
+          "name": "Embedding",
+          "status": "alternative"
+        },
+        {
+          "name": "Composition",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "ERROR HANDLING",
+      "items": [
+        {
+          "name": "error Interface",
+          "status": "recommended"
+        },
+        {
+          "name": "Custom Errors",
+          "status": "recommended"
+        },
+        {
+          "name": "Error Wrapping",
+          "status": "recommended"
+        },
+        {
+          "name": "Panic & Recover",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "CONCURRENCY",
+      "items": [
+        {
+          "name": "Goroutines",
+          "status": "recommended"
+        },
+        {
+          "name": "Channels",
+          "status": "recommended"
+        },
+        {
+          "name": "Buffered Channels",
+          "status": "recommended"
+        },
+        {
+          "name": "Select",
+          "status": "recommended"
+        },
+        {
+          "name": "WaitGroup",
+          "status": "recommended"
+        },
+        {
+          "name": "Mutex",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "PACKAGES & MODULES",
+      "items": [
+        {
+          "name": "Packages",
+          "status": "recommended"
+        },
+        {
+          "name": "Go Modules",
+          "status": "recommended"
+        },
+        {
+          "name": "go.mod",
+          "status": "recommended"
+        },
+        {
+          "name": "Dependency Management",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "FILE & DATA HANDLING",
+      "items": [
+        {
+          "name": "File Handling",
+          "status": "recommended"
+        },
+        {
+          "name": "JSON",
+          "status": "recommended"
+        },
+        {
+          "name": "CSV",
+          "status": "optional"
+        },
+        {
+          "name": "Environment Variables",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "WEB DEVELOPMENT",
+      "items": [
+        {
+          "name": "HTTP Package",
+          "status": "recommended"
+        },
+        {
+          "name": "REST APIs",
+          "status": "recommended"
+        },
+        {
+          "name": "HTTP Server",
+          "status": "recommended"
+        },
+        {
+          "name": "Routing",
+          "status": "recommended"
+        },
+        {
+          "name": "Middleware",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "DATABASE",
+      "items": [
+        {
+          "name": "SQL Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Database Connectivity",
+          "status": "recommended"
+        },
+        {
+          "name": "PostgreSQL",
+          "status": "recommended"
+        },
+        {
+          "name": "MySQL",
+          "status": "alternative"
+        },
+        {
+          "name": "ORM Concepts",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "TESTING",
+      "items": [
+        {
+          "name": "Unit Testing",
+          "status": "recommended"
+        },
+        {
+          "name": "Table Driven Tests",
+          "status": "recommended"
+        },
+        {
+          "name": "Benchmarks",
+          "status": "optional"
+        },
+        {
+          "name": "Mocking",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "BACKEND PROJECTS",
+      "items": [
+        {
+          "name": "REST API Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Authentication API",
+          "status": "recommended"
+        },
+        {
+          "name": "CRUD Application",
+          "status": "recommended"
+        },
+        {
+          "name": "Concurrent Backend Service",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "DEPLOYMENT",
+      "items": [
+        {
+          "name": "Linux Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Docker",
+          "status": "recommended"
+        },
+        {
+          "name": "CI/CD",
+          "status": "alternative"
+        },
+        {
+          "name": "Cloud Deployment",
+          "status": "recommended"
+        }
+      ]
+    }
+  ],
+  "relatedRoadmaps": [
+    "Java Developer",
+    "Python Developer",
+    "Backend Developer",
+    "Microservices",
+    "DevOps"
+  ]
+}
