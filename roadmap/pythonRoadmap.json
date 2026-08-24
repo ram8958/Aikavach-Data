@@ -1,0 +1,424 @@
+{
+  "title": "Python Developer Roadmap",
+  "groups": [
+    {
+      "title": "1. Python Fundamentals",
+      "items": [
+        {
+          "name": "Python Installation & Setup",
+          "status": "recommended"
+        },
+        {
+          "name": "Python Syntax",
+          "status": "recommended"
+        },
+        {
+          "name": "Variables & Data Types",
+          "status": "recommended"
+        },
+        {
+          "name": "Operators",
+          "status": "recommended"
+        },
+        {
+          "name": "Input & Output",
+          "status": "recommended"
+        },
+        {
+          "name": "Type Casting",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "2. Control Flow",
+      "items": [
+        {
+          "name": "if / elif / else",
+          "status": "recommended"
+        },
+        {
+          "name": "for Loop",
+          "status": "recommended"
+        },
+        {
+          "name": "while Loop",
+          "status": "recommended"
+        },
+        {
+          "name": "break / continue / pass",
+          "status": "recommended"
+        },
+        {
+          "name": "Nested Loops",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "3. Python Data Structures",
+      "items": [
+        {
+          "name": "Lists",
+          "status": "recommended"
+        },
+        {
+          "name": "Tuples",
+          "status": "recommended"
+        },
+        {
+          "name": "Sets",
+          "status": "recommended"
+        },
+        {
+          "name": "Dictionaries",
+          "status": "recommended"
+        },
+        {
+          "name": "List Comprehension",
+          "status": "recommended"
+        },
+        {
+          "name": "Dictionary Comprehension",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "4. Functions",
+      "items": [
+        {
+          "name": "Defining Functions",
+          "status": "recommended"
+        },
+        {
+          "name": "Parameters & Arguments",
+          "status": "recommended"
+        },
+        {
+          "name": "Return Values",
+          "status": "recommended"
+        },
+        {
+          "name": "Lambda Functions",
+          "status": "recommended"
+        },
+        {
+          "name": "args and kwargs",
+          "status": "recommended"
+        },
+        {
+          "name": "Decorators",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "5. Object Oriented Programming",
+      "items": [
+        {
+          "name": "Classes & Objects",
+          "status": "recommended"
+        },
+        {
+          "name": "Constructors",
+          "status": "recommended"
+        },
+        {
+          "name": "Inheritance",
+          "status": "recommended"
+        },
+        {
+          "name": "Encapsulation",
+          "status": "recommended"
+        },
+        {
+          "name": "Polymorphism",
+          "status": "recommended"
+        },
+        {
+          "name": "Abstraction",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "6. Exception Handling",
+      "items": [
+        {
+          "name": "try / except",
+          "status": "recommended"
+        },
+        {
+          "name": "else / finally",
+          "status": "recommended"
+        },
+        {
+          "name": "Custom Exceptions",
+          "status": "recommended"
+        },
+        {
+          "name": "Exception Hierarchy",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "7. File Handling",
+      "items": [
+        {
+          "name": "Read Files",
+          "status": "recommended"
+        },
+        {
+          "name": "Write Files",
+          "status": "recommended"
+        },
+        {
+          "name": "CSV Files",
+          "status": "recommended"
+        },
+        {
+          "name": "JSON Files",
+          "status": "recommended"
+        },
+        {
+          "name": "OS & Pathlib",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "8. Modules & Packages",
+      "items": [
+        {
+          "name": "Import & Modules",
+          "status": "recommended"
+        },
+        {
+          "name": "Packages",
+          "status": "recommended"
+        },
+        {
+          "name": "pip",
+          "status": "recommended"
+        },
+        {
+          "name": "Virtual Environment",
+          "status": "recommended"
+        },
+        {
+          "name": "requirements.txt",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "9. Advanced Python",
+      "items": [
+        {
+          "name": "Iterators",
+          "status": "recommended"
+        },
+        {
+          "name": "Generators",
+          "status": "recommended"
+        },
+        {
+          "name": "Decorators",
+          "status": "recommended"
+        },
+        {
+          "name": "Context Managers",
+          "status": "alternative"
+        },
+        {
+          "name": "Regular Expressions",
+          "status": "recommended"
+        },
+        {
+          "name": "Type Hints",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "10. Databases",
+      "items": [
+        {
+          "name": "SQL Fundamentals",
+          "status": "recommended"
+        },
+        {
+          "name": "SQLite",
+          "status": "recommended"
+        },
+        {
+          "name": "PostgreSQL",
+          "status": "recommended"
+        },
+        {
+          "name": "MySQL",
+          "status": "alternative"
+        },
+        {
+          "name": "ORM Concepts",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "11. Web Development",
+      "items": [
+        {
+          "name": "HTTP & REST APIs",
+          "status": "recommended"
+        },
+        {
+          "name": "Flask",
+          "status": "alternative"
+        },
+        {
+          "name": "Django",
+          "status": "recommended"
+        },
+        {
+          "name": "FastAPI",
+          "status": "recommended"
+        },
+        {
+          "name": "API Authentication",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "12. Data & Automation",
+      "items": [
+        {
+          "name": "NumPy",
+          "status": "recommended"
+        },
+        {
+          "name": "Pandas",
+          "status": "recommended"
+        },
+        {
+          "name": "Matplotlib",
+          "status": "recommended"
+        },
+        {
+          "name": "Web Scraping",
+          "status": "optional"
+        },
+        {
+          "name": "Python Automation",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "13. Testing",
+      "items": [
+        {
+          "name": "Unit Testing",
+          "status": "recommended"
+        },
+        {
+          "name": "pytest",
+          "status": "recommended"
+        },
+        {
+          "name": "Mocking",
+          "status": "optional"
+        },
+        {
+          "name": "Test Coverage",
+          "status": "optional"
+        }
+      ]
+    },
+    {
+      "title": "14. Git & GitHub",
+      "items": [
+        {
+          "name": "Git Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Branches",
+          "status": "recommended"
+        },
+        {
+          "name": "Pull Requests",
+          "status": "recommended"
+        },
+        {
+          "name": "GitHub Actions",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "15. Deployment & DevOps",
+      "items": [
+        {
+          "name": "Linux Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Docker",
+          "status": "recommended"
+        },
+        {
+          "name": "CI/CD",
+          "status": "recommended"
+        },
+        {
+          "name": "Cloud Deployment",
+          "status": "recommended"
+        },
+        {
+          "name": "AWS",
+          "status": "alternative"
+        }
+      ]
+    },
+    {
+      "title": "16. Projects",
+      "items": [
+        {
+          "name": "Python CLI Project",
+          "status": "recommended"
+        },
+        {
+          "name": "REST API Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Django Project",
+          "status": "recommended"
+        },
+        {
+          "name": "FastAPI Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Data Analysis Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Full Stack Python Project",
+          "status": "recommended"
+        }
+      ]
+    }
+  ],
+  "relatedRoadmaps": [
+    "Backend Developer",
+    "Django Developer",
+    "FastAPI Developer",
+    "Data Engineer",
+    "Machine Learning Engineer"
+  ]
+}
