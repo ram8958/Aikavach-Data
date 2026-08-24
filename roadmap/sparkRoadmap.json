@@ -1,0 +1,222 @@
+{
+  "title": "Apache Spark Roadmap",
+  "relatedRoadmaps": [
+    "Python Roadmap",
+    "Java Roadmap",
+    "Big Data Engineer Roadmap",
+    "Data Engineer Roadmap",
+    "Databricks Data Engineer Roadmap"
+  ],
+  "groups": [
+    {
+      "title": "Programming Fundamentals",
+      "items": [
+        {
+          "name": "Python Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Java Basics",
+          "status": "alternative"
+        },
+        {
+          "name": "Object-Oriented Programming",
+          "status": "recommended"
+        },
+        {
+          "name": "Functions & Modules",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Data Processing Fundamentals",
+      "items": [
+        {
+          "name": "Data Structures",
+          "status": "recommended"
+        },
+        {
+          "name": "File Formats",
+          "status": "recommended"
+        },
+        {
+          "name": "CSV & JSON",
+          "status": "recommended"
+        },
+        {
+          "name": "Parquet",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Apache Spark Fundamentals",
+      "items": [
+        {
+          "name": "Spark Architecture",
+          "status": "recommended"
+        },
+        {
+          "name": "Spark Cluster",
+          "status": "recommended"
+        },
+        {
+          "name": "Driver & Executors",
+          "status": "recommended"
+        },
+        {
+          "name": "Spark Application",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "RDD",
+      "items": [
+        {
+          "name": "RDD Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "RDD Transformations",
+          "status": "recommended"
+        },
+        {
+          "name": "RDD Actions",
+          "status": "recommended"
+        },
+        {
+          "name": "Pair RDD",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "DataFrames & Datasets",
+      "items": [
+        {
+          "name": "DataFrame Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "Dataset",
+          "status": "alternative"
+        },
+        {
+          "name": "Schema",
+          "status": "recommended"
+        },
+        {
+          "name": "DataFrame Operations",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Spark SQL",
+      "items": [
+        {
+          "name": "Spark SQL Basics",
+          "status": "recommended"
+        },
+        {
+          "name": "SQL Queries",
+          "status": "recommended"
+        },
+        {
+          "name": "Joins",
+          "status": "recommended"
+        },
+        {
+          "name": "Window Functions",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "PySpark",
+      "items": [
+        {
+          "name": "PySpark Setup",
+          "status": "recommended"
+        },
+        {
+          "name": "PySpark DataFrames",
+          "status": "recommended"
+        },
+        {
+          "name": "PySpark SQL",
+          "status": "recommended"
+        },
+        {
+          "name": "PySpark Projects",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Spark",
+      "items": [
+        {
+          "name": "Partitions",
+          "status": "recommended"
+        },
+        {
+          "name": "Caching & Persistence",
+          "status": "recommended"
+        },
+        {
+          "name": "Broadcast Variables",
+          "status": "recommended"
+        },
+        {
+          "name": "Accumulators",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Performance Optimization",
+      "items": [
+        {
+          "name": "Spark Optimization",
+          "status": "recommended"
+        },
+        {
+          "name": "Shuffle",
+          "status": "recommended"
+        },
+        {
+          "name": "Partition Optimization",
+          "status": "recommended"
+        },
+        {
+          "name": "Spark UI",
+          "status": "recommended"
+        }
+      ]
+    },
+    {
+      "title": "Real World Projects",
+      "items": [
+        {
+          "name": "ETL Pipeline",
+          "status": "recommended"
+        },
+        {
+          "name": "Batch Processing",
+          "status": "recommended"
+        },
+        {
+          "name": "Large Dataset Processing",
+          "status": "recommended"
+        },
+        {
+          "name": "End-to-End Data Engineering Project",
+          "status": "recommended"
+        }
+      ]
+    }
+  ]
+}
