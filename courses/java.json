@@ -1,0 +1,94 @@
+{
+  "courses": {
+    "slug": "java",
+    "image": "/java.png",
+    "category": "Programming",
+    "duration": "100+ Hours",
+    "enrolled": "500+ Students",
+    "title": "Java Programming Course",
+    "description": "Master Java programming from fundamentals to advanced concepts with practical coding, object-oriented programming, collections, exception handling, database connectivity and real-world application development.",
+    "price": {
+      "title": "COURSE PRICE",
+      "original": "₹20,000",
+      "amount": "₹12,000",
+      "discount": "40% OFF",
+      "note": "Lifetime access to course learning resources."
+    },
+    "button": {
+      "title": "Contact with us",
+      "href": "/contact"
+    },
+    "includes": [
+      {
+        "id": 1,
+        "text": "Java Programming Fundamentals"
+      },
+      {
+        "id": 2,
+        "text": "Object-Oriented Programming"
+      },
+      {
+        "id": 3,
+        "text": "Classes, Objects and Interfaces"
+      },
+      {
+        "id": 4,
+        "text": "Exception Handling"
+      },
+      {
+        "id": 5,
+        "text": "Collections Framework"
+      },
+      {
+        "id": 6,
+        "text": "Multithreading and Concurrency"
+      },
+      {
+        "id": 7,
+        "text": "File Handling and I/O"
+      },
+      {
+        "id": 8,
+        "text": "JDBC and Database Connectivity"
+      },
+      {
+        "id": 9,
+        "text": "Java Backend Development"
+      },
+      {
+        "id": 10,
+        "text": "Practical Projects and Coding Exercises"
+      }
+    ],
+    "socials": [
+      {
+        "id": 1,
+        "icon": "facebook",
+        "href": "https://www.facebook.com/"
+      },
+      {
+        "id": 2,
+        "icon": "linkedin",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "id": 3,
+        "icon": "whatsapp",
+        "href": "https://wa.me/919876543210"
+      },
+      {
+        "id": 4,
+        "icon": "x",
+        "href": "https://x.com/"
+      }
+    ],
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/919876543210"
+      },
+      "message": {
+        "href": "tel:+919876543210"
+      }
+    }
+  }
+}
