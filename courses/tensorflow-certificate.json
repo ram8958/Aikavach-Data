@@ -1,0 +1,125 @@
+{
+  "courses": {
+    "slug": "tensorflow-certificate",
+    "image": "/tensorflow.png",
+    "category": "Artificial Intelligence & Deep Learning",
+    "duration": "60+ Hours",
+    "enrolled": "1000+ Students",
+
+    "title": "TensorFlow Developer Training & Certification",
+
+    "description": "Master TensorFlow and modern deep learning through hands-on training. Learn neural networks, computer vision, natural language processing, model training, optimization, deployment and real-world AI projects.",
+
+    "price": {
+      "title": "Course Price",
+      "amount": "₹12,000",
+      "original": "",
+      "discount": "",
+      "note": "Inclusive of all taxes"
+    },
+
+    "button": {
+      "title": "Contact With Us",
+      "href": "tel:7217670118"
+    },
+
+    "guide": {
+      "badge": "Certification Guide",
+      "title": "Learn TensorFlow & Deep Learning Skills",
+      "description": "Follow a structured learning path covering TensorFlow, neural networks, computer vision, NLP and real-world deep learning projects.",
+      "button": {
+        "title": "View Learning Roadmap",
+        "href": "#roadmap"
+      }
+    },
+
+    "includes": [
+      {
+        "id": 1,
+        "icon": "check",
+        "text": "TensorFlow Fundamentals"
+      },
+      {
+        "id": 2,
+        "icon": "check",
+        "text": "Python for Machine Learning"
+      },
+      {
+        "id": 3,
+        "icon": "check",
+        "text": "Neural Networks & Deep Learning"
+      },
+      {
+        "id": 4,
+        "icon": "check",
+        "text": "Computer Vision with CNN"
+      },
+      {
+        "id": 5,
+        "icon": "check",
+        "text": "Natural Language Processing"
+      },
+      {
+        "id": 6,
+        "icon": "check",
+        "text": "TensorFlow Keras API"
+      },
+      {
+        "id": 7,
+        "icon": "check",
+        "text": "Model Training & Optimization"
+      },
+      {
+        "id": 8,
+        "icon": "check",
+        "text": "Transfer Learning"
+      },
+      {
+        "id": 9,
+        "icon": "check",
+        "text": "TensorFlow Model Deployment"
+      },
+      {
+        "id": 10,
+        "icon": "check",
+        "text": "Hands-on Deep Learning Projects"
+      }
+    ],
+
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "name": "WhatsApp",
+        "icon": "whatsapp",
+        "href": "https://wa.me/917217670118"
+      }
+    ],
+
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/917217670118"
+      },
+      "message": {
+        "href": "tel:7217670118"
+      }
+    }
+  }
+}
