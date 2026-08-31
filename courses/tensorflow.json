@@ -1,0 +1,115 @@
+{
+  "courses": {
+    "slug": "tensorflow",
+    "image": "/tensorflow.png",
+    "category": "Artificial Intelligence & Machine Learning",
+    "duration": "60 Days",
+    "enrolled": "1000+ Students",
+
+    "title": "TensorFlow Developer Training & Certification",
+
+    "description": "Learn TensorFlow from fundamentals to advanced deep learning concepts with hands-on training, practical projects, neural networks, computer vision and machine learning model development.",
+
+    "price": {
+      "title": "Course Price",
+      "amount": "₹12,000",
+      "original": "",
+      "discount": "",
+      "note": "Inclusive of all taxes"
+    },
+
+    "button": {
+      "title": "Contact With Us",
+      "href": "tel:7217670118"
+    },
+
+    "guide": {
+      "badge": "Certification Guide",
+      "title": "Learn TensorFlow Developer Skills",
+      "description": "Understand TensorFlow, deep learning, neural networks, computer vision and practical machine learning development.",
+      "button": {
+        "title": "View Learning Roadmap",
+        "href": "#roadmap"
+      }
+    },
+
+    "includes": [
+      {
+        "id": 1,
+        "icon": "check",
+        "text": "Python for Machine Learning"
+      },
+      {
+        "id": 2,
+        "icon": "check",
+        "text": "TensorFlow Fundamentals"
+      },
+      {
+        "id": 3,
+        "icon": "check",
+        "text": "Neural Networks & Deep Learning"
+      },
+      {
+        "id": 4,
+        "icon": "check",
+        "text": "Computer Vision with TensorFlow"
+      },
+      {
+        "id": 5,
+        "icon": "check",
+        "text": "Natural Language Processing"
+      },
+      {
+        "id": 6,
+        "icon": "check",
+        "text": "CNN and Image Classification"
+      },
+      {
+        "id": 7,
+        "icon": "check",
+        "text": "Model Training & Optimization"
+      },
+      {
+        "id": 8,
+        "icon": "check",
+        "text": "TensorFlow Practical Projects"
+      }
+    ],
+
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "name": "WhatsApp",
+        "icon": "whatsapp",
+        "href": "https://wa.me/917217670118"
+      }
+    ],
+
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/917217670118"
+      },
+      "message": {
+        "href": "tel:7217670118"
+      }
+    }
+  }
+}
