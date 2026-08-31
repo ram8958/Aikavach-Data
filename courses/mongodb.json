@@ -1,0 +1,47 @@
+{
+  "courses": {
+    "slug": "mongodb",
+    "image": "/mongodb.png",
+    "category": "Database & NoSQL",
+    "duration": "30 Days",
+    "enrolled": "1000+ Students",
+    "title": "MongoDB Developer & Database Administrator Training",
+    "description": "Master MongoDB from beginner to advanced level with hands-on development, database administration, security, performance optimization, replication, backup and recovery, sharding, MongoDB Atlas, Docker, and production-ready projects.",
+    "price": {
+      "original": "₹25000",
+      "discounted": "₹15000",
+      "discount": "40% OFF"
+    },
+    "badge": {
+      "title": "Certification Training",
+      "description": "Prepare for MongoDB Developer and Database Administrator roles with hands-on labs and real-world projects.",
+      "button": {
+        "title": "Enroll Now",
+        "href": "/contact"
+      }
+    },
+    "features": [
+      "MongoDB CRUD & Advanced Queries",
+      "Aggregation Framework",
+      "MongoDB Data Modeling",
+      "Schema Validation",
+      "Indexes & Performance Optimization",
+      "MongoDB Transactions",
+      "MongoDB Administration",
+      "Authentication & RBAC",
+      "MongoDB Security",
+      "Backup & Recovery",
+      "Replica Sets & High Availability",
+      "MongoDB Monitoring",
+      "Sharding & Scaling",
+      "MongoDB Atlas",
+      "Docker & MongoDB",
+      "Node.js & Python Integration",
+      "Production Projects"
+    ],
+    "certificationGuide": {
+      "title": "MongoDB Career & Certification Guide",
+      "description": "Build practical MongoDB Developer and Database Administrator skills through hands-on labs, real-world projects, security, performance optimization, high availability, and cloud deployment."
+    }
+  }
+}
