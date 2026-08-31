@@ -1,0 +1,321 @@
+{
+  "title": "TensorFlow Developer & Deep Learning Roadmap",
+
+  "groups": [
+    {
+      "title": "Foundation & Environment Setup",
+      "items": [
+        {
+          "name": "Python for Machine Learning",
+          "status": "recommended"
+        },
+        {
+          "name": "NumPy & Data Processing",
+          "status": "recommended"
+        },
+        {
+          "name": "Machine Learning Fundamentals",
+          "status": "recommended"
+        },
+        {
+          "name": "Install TensorFlow & Setup Environment",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "TensorFlow Fundamentals",
+      "items": [
+        {
+          "name": "TensorFlow Tensors",
+          "status": "recommended"
+        },
+        {
+          "name": "Tensor Operations",
+          "status": "recommended"
+        },
+        {
+          "name": "TensorFlow Variables",
+          "status": "alternative"
+        },
+        {
+          "name": "TensorFlow Data Types",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Keras & Neural Networks",
+      "items": [
+        {
+          "name": "TensorFlow Keras API",
+          "status": "recommended"
+        },
+        {
+          "name": "Sequential Models",
+          "status": "recommended"
+        },
+        {
+          "name": "Functional API",
+          "status": "recommended"
+        },
+        {
+          "name": "Custom Neural Networks",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Deep Learning Fundamentals",
+      "items": [
+        {
+          "name": "Artificial Neural Networks",
+          "status": "recommended"
+        },
+        {
+          "name": "Activation Functions",
+          "status": "recommended"
+        },
+        {
+          "name": "Loss Functions",
+          "status": "recommended"
+        },
+        {
+          "name": "Optimizers",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Model Training",
+      "items": [
+        {
+          "name": "Training Neural Networks",
+          "status": "recommended"
+        },
+        {
+          "name": "Validation & Testing",
+          "status": "recommended"
+        },
+        {
+          "name": "Batch Size & Epochs",
+          "status": "recommended"
+        },
+        {
+          "name": "Callbacks",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Model Optimization",
+      "items": [
+        {
+          "name": "Overfitting & Underfitting",
+          "status": "recommended"
+        },
+        {
+          "name": "Dropout",
+          "status": "recommended"
+        },
+        {
+          "name": "Batch Normalization",
+          "status": "recommended"
+        },
+        {
+          "name": "Early Stopping",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Computer Vision",
+      "items": [
+        {
+          "name": "Image Classification",
+          "status": "recommended"
+        },
+        {
+          "name": "Convolutional Neural Networks",
+          "status": "recommended"
+        },
+        {
+          "name": "Pooling Layers",
+          "status": "recommended"
+        },
+        {
+          "name": "Image Augmentation",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Advanced Computer Vision",
+      "items": [
+        {
+          "name": "Transfer Learning",
+          "status": "recommended"
+        },
+        {
+          "name": "Pretrained Models",
+          "status": "recommended"
+        },
+        {
+          "name": "Fine Tuning",
+          "status": "recommended"
+        },
+        {
+          "name": "Object Detection Concepts",
+          "status": "optional"
+        }
+      ]
+    },
+
+    {
+      "title": "Natural Language Processing",
+      "items": [
+        {
+          "name": "Text Preprocessing",
+          "status": "recommended"
+        },
+        {
+          "name": "Tokenization",
+          "status": "recommended"
+        },
+        {
+          "name": "Word Embeddings",
+          "status": "recommended"
+        },
+        {
+          "name": "Text Classification",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Sequence Models",
+      "items": [
+        {
+          "name": "Recurrent Neural Networks",
+          "status": "recommended"
+        },
+        {
+          "name": "LSTM Networks",
+          "status": "recommended"
+        },
+        {
+          "name": "GRU Networks",
+          "status": "alternative"
+        },
+        {
+          "name": "Sequence Prediction",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Data Pipelines",
+      "items": [
+        {
+          "name": "tf.data",
+          "status": "recommended"
+        },
+        {
+          "name": "Data Loading",
+          "status": "recommended"
+        },
+        {
+          "name": "Batching & Prefetching",
+          "status": "recommended"
+        },
+        {
+          "name": "Data Augmentation Pipeline",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "TensorFlow Deployment",
+      "items": [
+        {
+          "name": "Save & Load Models",
+          "status": "recommended"
+        },
+        {
+          "name": "TensorFlow Serving",
+          "status": "recommended"
+        },
+        {
+          "name": "REST API Integration",
+          "status": "recommended"
+        },
+        {
+          "name": "Docker Deployment",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "TensorFlow Lite",
+      "items": [
+        {
+          "name": "Mobile AI Deployment",
+          "status": "recommended"
+        },
+        {
+          "name": "TensorFlow Lite Conversion",
+          "status": "recommended"
+        },
+        {
+          "name": "Model Quantization",
+          "status": "alternative"
+        },
+        {
+          "name": "Edge AI Concepts",
+          "status": "optional"
+        }
+      ]
+    },
+
+    {
+      "title": "Hands-on Projects",
+      "items": [
+        {
+          "name": "Image Classification Project",
+          "status": "recommended"
+        },
+        {
+          "name": "CNN Image Recognition Project",
+          "status": "recommended"
+        },
+        {
+          "name": "NLP Text Classification Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Production Deep Learning Application",
+          "status": "recommended"
+        }
+      ]
+    }
+  ],
+
+  "relatedRoadmaps": [
+    "AI-300",
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "Data Engineer"
+  ]
+}
