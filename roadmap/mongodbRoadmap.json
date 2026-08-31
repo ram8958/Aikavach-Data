@@ -1,0 +1,309 @@
+{
+  "title": "30-Day MongoDB Administrator + Developer Roadmap",
+
+  "groups": [
+    {
+      "title": "Week 1: MongoDB Fundamentals + Developer Basics",
+      "items": [
+        {
+          "name": "Day 1: MongoDB Architecture",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 2: Database and Collection Operations",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 3: CRUD Operations",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 4: Querying MongoDB",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 5: Data Modeling",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 6: Indexes",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 7: Ecommerce MongoDB Developer Project",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Week 2: Advanced MongoDB Development",
+      "items": [
+        {
+          "name": "Day 8: Aggregation Framework",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 9: Advanced Aggregation",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 10: MongoDB Transactions",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 11: MongoDB with Node.js",
+          "status": "alternative"
+        },
+        {
+          "name": "Day 12: MongoDB with Python",
+          "status": "alternative"
+        },
+        {
+          "name": "Day 13: Schema Validation",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 14: Banking Transaction Database Project",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Week 3: MongoDB Administration",
+      "items": [
+        {
+          "name": "Day 15: MongoDB Administration",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 16: Users and Authentication",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 17: MongoDB Security",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 18: Backup and Restore",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 19: Replication",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 20: High Availability",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 21: Production Replica Set Project",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Week 4: Performance, Scaling and MongoDB Atlas",
+      "items": [
+        {
+          "name": "Day 22: MongoDB Performance",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 23: Advanced Index Optimization",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 24: MongoDB Monitoring",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 25: MongoDB Sharding",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 26: MongoDB Atlas",
+          "status": "alternative"
+        },
+        {
+          "name": "Day 27: Docker and MongoDB",
+          "status": "alternative"
+        },
+        {
+          "name": "Day 28: DevOps Integration",
+          "status": "optional"
+        }
+      ]
+    },
+
+    {
+      "title": "Week 5: Final Production Project and Assessment",
+      "items": [
+        {
+          "name": "Day 29: Enterprise Banking MongoDB Platform",
+          "status": "recommended"
+        },
+        {
+          "name": "Day 30: Final Developer Assessment",
+          "status": "recommended"
+        },
+        {
+          "name": "Final Administrator Assessment",
+          "status": "recommended"
+        },
+        {
+          "name": "MongoDB Architecture Assessment",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Core Developer Skills",
+      "items": [
+        {
+          "name": "MongoDB CRUD",
+          "status": "recommended"
+        },
+        {
+          "name": "MongoDB Query Language",
+          "status": "recommended"
+        },
+        {
+          "name": "Aggregation Framework",
+          "status": "recommended"
+        },
+        {
+          "name": "Data Modeling",
+          "status": "recommended"
+        },
+        {
+          "name": "Schema Validation",
+          "status": "recommended"
+        },
+        {
+          "name": "Indexes",
+          "status": "recommended"
+        },
+        {
+          "name": "Transactions",
+          "status": "recommended"
+        },
+        {
+          "name": "Node.js Integration",
+          "status": "alternative"
+        },
+        {
+          "name": "Python Integration",
+          "status": "alternative"
+        },
+        {
+          "name": "REST API Development",
+          "status": "recommended"
+        },
+        {
+          "name": "Performance Optimization",
+          "status": "recommended"
+        }
+      ]
+    },
+
+    {
+      "title": "Core Administrator Skills",
+      "items": [
+        {
+          "name": "MongoDB Installation",
+          "status": "recommended"
+        },
+        {
+          "name": "Configuration",
+          "status": "recommended"
+        },
+        {
+          "name": "Authentication",
+          "status": "recommended"
+        },
+        {
+          "name": "Authorization and RBAC",
+          "status": "recommended"
+        },
+        {
+          "name": "MongoDB Security",
+          "status": "recommended"
+        },
+        {
+          "name": "Backup and Restore",
+          "status": "recommended"
+        },
+        {
+          "name": "Replication",
+          "status": "recommended"
+        },
+        {
+          "name": "High Availability",
+          "status": "recommended"
+        },
+        {
+          "name": "Monitoring",
+          "status": "recommended"
+        },
+        {
+          "name": "Performance Tuning",
+          "status": "recommended"
+        },
+        {
+          "name": "Sharding",
+          "status": "recommended"
+        },
+        {
+          "name": "Disaster Recovery",
+          "status": "recommended"
+        },
+        {
+          "name": "MongoDB Atlas",
+          "status": "alternative"
+        }
+      ]
+    },
+
+    {
+      "title": "Portfolio Projects",
+      "items": [
+        {
+          "name": "E-commerce MongoDB Application",
+          "status": "recommended"
+        },
+        {
+          "name": "Banking Transaction System",
+          "status": "recommended"
+        },
+        {
+          "name": "3-Node MongoDB Replica Set",
+          "status": "recommended"
+        },
+        {
+          "name": "MongoDB Performance Optimization Project",
+          "status": "recommended"
+        },
+        {
+          "name": "Sharded MongoDB Cluster",
+          "status": "alternative"
+        },
+        {
+          "name": "MongoDB Atlas Production Deployment",
+          "status": "alternative"
+        }
+      ]
+    }
+  ],
+
+  "relatedRoadmaps": [
+    "Data Engineer",
+    "Big Data Engineer",
+    "Data Platform Engineer",
+    "DevOps",
+    "Cyber Security"
+  ]
+}
