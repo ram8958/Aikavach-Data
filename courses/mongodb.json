@@ -1,0 +1,125 @@
+{
+  "courses": {
+    "slug": "mongodb",
+    "image": "/mongodb.png",
+    "category": "Database Administration & Development",
+    "duration": "30 Days",
+    "enrolled": "1000+ Students",
+
+    "title": "MongoDB Administrator + Developer Training & Certification",
+
+    "description": "Master MongoDB from beginner to advanced level with hands-on training in database development, administration, security, performance optimization, replication, backup and recovery, high availability, sharding and MongoDB Atlas.",
+
+    "price": {
+      "title": "Course Price",
+      "amount": "₹12,000",
+      "original": "",
+      "discount": "",
+      "note": "Inclusive of all taxes"
+    },
+
+    "button": {
+      "title": "Contact With Us",
+      "href": "tel:7217670118"
+    },
+
+    "guide": {
+      "badge": "Certification Guide",
+      "title": "Learn MongoDB Developer & Administrator Skills",
+      "description": "Understand MongoDB development, administration, security, performance, high availability and certification preparation.",
+      "button": {
+        "title": "View Learning Roadmap",
+        "href": "#roadmap"
+      }
+    },
+
+    "includes": [
+      {
+        "id": 1,
+        "icon": "check",
+        "text": "MongoDB CRUD & Query Operations"
+      },
+      {
+        "id": 2,
+        "icon": "check",
+        "text": "Aggregation Framework & Advanced Queries"
+      },
+      {
+        "id": 3,
+        "icon": "check",
+        "text": "MongoDB Data Modeling & Schema Validation"
+      },
+      {
+        "id": 4,
+        "icon": "check",
+        "text": "Indexes & Performance Optimization"
+      },
+      {
+        "id": 5,
+        "icon": "check",
+        "text": "MongoDB Security & RBAC"
+      },
+      {
+        "id": 6,
+        "icon": "check",
+        "text": "Backup, Restore & Disaster Recovery"
+      },
+      {
+        "id": 7,
+        "icon": "check",
+        "text": "Replica Sets & High Availability"
+      },
+      {
+        "id": 8,
+        "icon": "check",
+        "text": "Sharding & Horizontal Scaling"
+      },
+      {
+        "id": 9,
+        "icon": "check",
+        "text": "MongoDB Atlas Cloud"
+      },
+      {
+        "id": 10,
+        "icon": "check",
+        "text": "Hands-on Developer & Administrator Projects"
+      }
+    ],
+
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "name": "WhatsApp",
+        "icon": "whatsapp",
+        "href": "https://wa.me/917217670118"
+      }
+    ],
+
+    "floatingButtons": {
+      "whatsapp": {
+        "href": "https://wa.me/917217670118"
+      },
+      "message": {
+        "href": "tel:7217670118"
+      }
+    }
+  }
+}
